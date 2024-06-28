@@ -1,6 +1,6 @@
 # AI for Science paper collection
 
-This repo lists AI for Science papers accepted by top conferences. Each `.csv` file contains the correponding list of each year. Currently, the paper list is labelled by keys of `Title`, `Conference`, `Type`, `Application`, `MLTech`, `OpenReviewLink`. One could visulalize the list by `pandas`.
+This repo lists AI for Science papers accepted by top conferences. Each `.csv` file contains the correponding list of each year. Currently, the paper list is labelled by keys of `Title`, `Conference`, `Type`, `Application`, `MLTech`, `OpenReviewLink`. One could visulalize the list by `pandas`. We currently cover venues: International Conference on Machine Learning (ICML).
 
 Conference list: [ICML 2024](icml_2024.csv)
 
