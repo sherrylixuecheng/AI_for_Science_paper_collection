@@ -40,7 +40,7 @@ LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Sci
 Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics,ICML_2024,Poster,Physics,Transformer,https://openreview.net/forum?id=vJx6fld6l0
 Neural SPH: Improved Neural Modeling of Lagrangian Fluid Dynamics,ICML_2024,Poster,Physics,Graph_Neural_Network,https://openreview.net/forum?id=Pbey7LqBRl
 "PhAST: Physics-Aware, Scalable, and Task-Specific GNNs for Accelerated Catalyst Design",ICML_2024,Poster,Chemistry,Graph_Neural_Network,https://jmlr.org/papers/v25/23-0680.html
-Is machine learning good or bad for the natural sciences?,ICML_2024,Poster,General,NA,https://openreview.net/forum?id=rU8o0QQCy0
+Is machine learning good or bad for the natural sciences?,ICML_2024,Poster,General,General,https://openreview.net/forum?id=rU8o0QQCy0
 Pre-Training Protein Bi-level Representation Through Span Mask Strategy On 3D Protein Chain,ICML_2024,Poster,Biology,Representation_Learning,https://openreview.net/forum?id=qY63FnLuJ1
 Reference Neural Operators: Learning the Smooth Dependence of Solutions of PDEs on Geometric Deformations,ICML_2024,Poster,Math,Neural_Operators,https://openreview.net/forum?id=CecY6XiUfu
 Stability-Informed Initialization of Neural Ordinary Differential Equations,ICML_2024,Poster,Math,Initialization,https://openreview.net/forum?id=uiqbnV4msl
@@ -54,14 +54,7 @@ PGODE: Towards High-quality System Dynamics Modeling,ICML_2024,Poster,Physics,Gr
 Prometheus: Out-of-distribution Fluid Dynamics Modeling with Disentangled Graph ODE,ICML_2024,Poster,Physics,Graph_Neural_Network,https://openreview.net/forum?id=JsPvL6ExK8
 Equivariant Graph Neural Operator for Modeling 3D Dynamics,ICML_2024,Poster,Physics,Graph_Neural_Network,https://openreview.net/forum?id=dccRCYmL5x
 HAMLET: Graph Transformer Neural Operator for Partial Differential Equations,ICML_2024,Poster,Physics,Graph_Neural_Network,https://openreview.net/forum?id=nYX7I6PsL7
-Towards General Algorithm Discovery for Combinatorial Optimization: Learning Symbolic Branching Policy from Bipartite Graph,ICML_2024,Poster,Mathematics,Graph_Neural_Network,https://openreview.net/forum?id=jrE7geZekq
-PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming,ICML_2024,Poster,Mathematics,Graph_Neural_Network,https://openreview.net/forum?id=2cXzNDe614
-"Combinatorial Approximations for Cluster Deletion: Simpler, Faster, and Better",ICML_2024,Poster,Cluster_Deletion,Graph_Neural_Network,https://openreview.net/forum?id=FpbKoIPHxb
+Towards General Algorithm Discovery for Combinatorial Optimization: Learning Symbolic Branching Policy from Bipartite Graph,ICML_2024,Poster,Math,Graph_Neural_Network,https://openreview.net/forum?id=jrE7geZekq
+PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming,ICML_2024,Poster,Math,Graph_Neural_Network,https://openreview.net/forum?id=2cXzNDe614
 Gaussian Plane-Wave Neural Operator for Electron Density Estimation,ICML_2024,Poster,Physics,Graph_Neural_Network,https://openreview.net/forum?id=TvoG41N1Y3
-Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization,ICML_2024,Poster,Knowledge_Graph,Graph_Neural_Network,https://openreview.net/forum?id=Sv4u9PtvT5
-PAC-Bayesian Generalization Bounds for Knowledge Graph Representation Learning,ICML_2024,Poster,Knowledge_Graph,Representation_Learning,https://openreview.net/forum?id=sOyJSNUrzQ
-Knowledge Graphs Can be Learned with Just Intersection Features,ICML_2024,Poster,Knowledge_Graph,Graph_Neural_Network,https://openreview.net/forum?id=Al5GlVytqi
-KnowFormer: Revisiting Transformers for Knowledge Graph Reasoning,ICML_2024,Poster,Knowledge_Graph,Graph_Neural_Network,https://openreview.net/forum?id=EncFNR3hxM
-Understanding Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation,ICML_2024,Poster,Large_Language_Models,Graph_Neural_Network,https://openreview.net/forum?id=dZsEOFUDew
-Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models,ICML_2024,Poster,Large_Language_Models,Graph_Neural_Network,https://openreview.net/forum?id=JCG0KTPVYy
 Knowledge-aware Reinforced Language Models for Protein Directed Evolution,ICML_2024,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=MikandLqtW
