@@ -19,6 +19,6 @@ If you want to join the team, please contact <a href="mailto:sherrylixuecheng@go
 
 ## Word clouds
 <p align="center">
-  <img src="ml.png" width="500" title="ML techniques">
-  <img src="science.png" width="500" title="Science applications">
+  <img src="ml.png" width="400" title="ML techniques">
+  <img src="science.png" width="400" title="Science applications">
 </p>
