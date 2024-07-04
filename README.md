@@ -4,7 +4,7 @@ This is a new initiative by [AI for Science Community](https://ai4sciencecommuni
 
 Each `.csv` file contains the correponding list of each year. Currently, the paper list is labelled by keys of `Title`, `Conference`, `Type`, `Application`, `MLTech`, `OpenReviewLink`. One could visulalize the list directly on this GitHub repo or by `pandas`. 
 
-## Covered Venues
+## Covered venues
 *1. International Conference on Machine Learning (ICML)*
 - [ICML 2024](icml_2024.csv)
 
@@ -16,3 +16,9 @@ We are gradually adding the results from past top conferences and welcome volunt
 You could contribute to this page by creating a PR on (1) updating a current `.csv` (2) contributing a new `.csv` for an uncovered conference/year
 
 If you want to join the team, please contact <a href="mailto:sherrylixuecheng@google.com">Lixue Cheng</a>.
+
+## Word clouds
+<p align="center">
+  <img src="ml.png" width="500" title="ML techniques">
+  <img src="science.png" width="500" title="Science applications">
+</p>
