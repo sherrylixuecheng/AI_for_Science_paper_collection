@@ -7,6 +7,7 @@ Each `.csv` file contains the correponding list of each year. Currently, the pap
 ## Covered Venues
 *1. International Conference on Machine Learning (ICML)*
 - [ICML 2024](icml_2024.csv)
+
 *2. Annual Conference on Neural Information Processing Systems (NeurIPS)*
 - [NeurIPS 2023](neurips_2023.csv)
 
