@@ -1,0 +1,59 @@
+,Title,Conference,Type,Application,MLTech,OpenReviewLink
+,ACAT: Adversarial Counterfactual Attention for Classification and Detection in Medical Imaging,ICML_2023,Poster,Healthcare,,https://openreview.net/forum?id=yrVIUwRtzy
+,A Group Symmetric Stochastic Differential Equation Model for Molecule Multi-modal Pretraining,ICML_2023,Poster,Chemistry,,https://openreview.net/forum?id=mPEVwu50th
+,A Neural PDE Solver with Temporal Stencil Modeling,ICML_2023,Poster,Math,,https://proceedings.mlr.press/v202/liu23h.html
+,Automated Search for Conjectures on Mathematical Constants using Analysis of Integer Sequences,ICML_2023,Poster,Math,,https://proceedings.mlr.press/v202/razon23a.html
+,Chemically Transferable Generative Backmapping of Coarse-Grained Proteins,ICML_2023,Poster,Protein,Generative_Model,https://proceedings.mlr.press/v202/yang23e.html
+,ClimaX: A foundation model for weather and climate,ICML_2023,Poster,Climate,,https://openreview.net/forum?id=TowCaiz7Ui
+,Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D,ICML_2023,Poster,Chemistry,,https://openreview.net/forum?id=7haEvhb25X
+,Conditional Graph Information Bottleneck for Molecular Relational Learning,ICML_2023,Poster,Chemistry,,https://openreview.net/forum?id=z8zcMmvKSB
+,DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design,ICML_2023,Poster,Chemistry,,https://openreview.net/forum?id=j69E3-twUK
+,Drug Discovery under Covariate Shift with Domain-Informed Prior Distributions over Functions,ICML_2023,Poster,Chemistry,,https://proceedings.mlr.press/v202/klarner23a.html
+,Efficient Approximations of Complete Interatomic Potentials for Crystal Property Prediction,ICML_2023,Poster,Material,,https://openreview.net/forum?id=N9XDGqqVmf
+,Efficient Learning of Mesh-Based Physical Simulation with Bi-Stride Multi-Scale Graph Neural Network,ICML_2023,Poster,Physics,Graph_Neural_Network,https://openreview.net/forum?id=FCTyqEuH14
+,Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language,ICML_2023,Poster,Chemistry,Lanuage_Model,https://openreview.net/forum?id=-gRBqsmK-tm
+,Evidential Interactive Learning for Medical Image Captioning,ICML_2023,Poster,Healthcare,Graph_Neural_Network,https://proceedings.mlr.press/v202/zheng23g.html
+,Ewald-based Long-Range Message Passing for Molecular Graphs,ICML_2023,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=vd5JYAml0A
+,Exploring Chemical Space with Score-based Out-of-distribution Generation,ICML_2023,Poster,Chemistry,Generative_Model,https://proceedings.mlr.press/v202/lee23f.html
+,FAENet: Frame Averaging Equivariant GNN for Materials Modeling,ICML_2023,Poster,Material,Graph_Neural_Network,https://proceedings.mlr.press/v202/duval23a.html
+,Fractional Denoising for 3D Molecular Pre-training,ICML_2023,Poster,Chemistry,,https://proceedings.mlr.press/v202/feng23c.html
+,FusionRetro: Molecule Representation Fusion via In-Context Learning for Retrosynthetic Planning,ICML_2023,Poster,Chemistry,,https://openreview.net/forum?id=BTRKmm4HXxv
+,Gaussian processes at the Helm(holtz): A more fluid model for ocean currents,ICML_2023,Poster,Environment,Gaussian_Process,https://openreview.net/forum?id=Qtix8HLmDx
+,Gaussian Process Priors for Systems of Linear Partial Differential Equations with Constant Coefficients,ICML_2023,Poster,Math,Gaussian_Process,https://proceedings.mlr.press/v202/harkonen23a.html
+,General Covariance Data Augmentation for Neural PDE Solvers,ICML_2023,Poster,Math,,https://proceedings.mlr.press/v202/fanaskov23a.html
+,"Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds",ICML_2023,Poster,Biology,,https://proceedings.mlr.press/v202/lin23a.html
+,Geometric Latent Diffusion Models for 3D Molecule Generation,ICML_2023,Poster,Chemistry,,https://openreview.net/forum?id=FYPt5267Pt
+,Group Equivariant Fourier Neural Operators for Partial Differential Equations,ICML_2023,Poster,Math,Neural_Operater,https://openreview.net/forum?id=kgAOY5x4fi
+,Hierarchical Grammar-Induced Geometry for Data-Efficient Molecular Property Prediction,ICML_2023,Poster,Chemistry,,https://openreview.net/forum?id=8AvuAnSNOF
+,Implicit Neural Spatial Representations for Time-dependent PDEs,ICML_2023,Poster,Math,,https://proceedings.mlr.press/v202/chen23af.html
+,Importance Weighted Expectation-Maximization for Protein Sequence Design,ICML_2023,Poster,Biology,,https://openreview.net/forum?id=QLD9ivPC9xn
+,Improving Medical Predictions by Irregular Multimodal Electronic Health Records Modeling,ICML_2023,Poster,Healthcare,,https://openreview.net/forum?id=zi1iKanf9k
+,Learning Distributions over Quantum Measurement Outcomes,ICML_2023,Poster,Physics,,https://proceedings.mlr.press/v202/gong23a.html
+,Learning Neural Constitutive Laws from Motion Observations for Generalizable PDE Dynamics,ICML_2023,Poster,Math,Neural_Operater,https://proceedings.mlr.press/v202/ma23a.html
+,Learning Neural PDE Solvers with Parameter-Guided Channel Attention,ICML_2023,Poster,Math,Neural_Operater,https://proceedings.mlr.press/v202/takamoto23a.html
+,Learning Physical Models that Can Respect Conservation Laws,ICML_2023,Poster,Physics,,https://proceedings.mlr.press/v202/hansen23b.html
+,Learning Subpocket Prototypes for Generalizable Structure-based Drug Design,ICML_2023,Poster,Chemistry,,https://proceedings.mlr.press/v202/zhang23z.html
+,MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation,ICML_2023,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=gfGLMZR27W
+,Multi-Fidelity Covariance Estimation in the Log-Euclidean Geometry,ICML_2023,Poster,Math,,https://openreview.net/forum?id=xPU9F90HjM
+,Near-Optimal Quantum Coreset Construction Algorithms for Clustering,ICML_2023,Poster,Physics,,https://openreview.net/forum?id=9SPVCXs0zV4
+,Neural Inverse Operators for Solving PDE Inverse Problems,ICML_2023,Poster,Math,Neural_Operater,https://proceedings.mlr.press/v202/molinaro23a.html
+,Neural Network Approximations of PDEs Beyond Linearity: A Representational Perspective,ICML_2023,Poster,Math,Neural_Network,https://proceedings.mlr.press/v202/marwah23a.html
+,NUNO: A General Framework for Learning Parametric PDEs with Non-Uniform Data,ICML_2023,Poster,Math,General,https://openreview.net/forum?id=KobAWlZL29
+,Predicting Ordinary Differential Equations with Transformers,ICML_2023,Poster,Math,Transformers,https://openreview.net/forum?id=LztkK0UZxS
+,ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts,ICML_2023,Poster,Biology,Lanuage_Model,https://proceedings.mlr.press/v202/xu23t.html
+,QASA: Advanced Question Answering on Scientific Articles,ICML_2023,Poster,General,Lanuage_Model,https://openreview.net/forum?id=5ud0h8OXwD
+,QAS-Bench: Rethinking Quantum Architecture Search and A Benchmark,ICML_2023,Poster,Physics,General,https://openreview.net/forum?id=8oa0kysYVq6
+,Q-Flow: Generative Modeling for Differential Equations of Open Quantum Dynamics with Normalizing Flows,ICML_2023,Poster,Physics,Generative_Model,https://openreview.net/forum?id=6rqa493Sxf
+,Quantum 3D Graph Learning with Applications to Molecule Embedding,ICML_2023,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=asLKnpJjKjc
+,QuantumDARTS: Differentiable Quantum Architecture Search for Variational Quantum Algorithms,ICML_2023,Poster,Physics,,https://proceedings.mlr.press/v202/wu23v.html
+,Random Grid Neural Processes for Parametric Partial Differential Equations,ICML_2023,Poster,Math,Neural_Operater,https://proceedings.mlr.press/v202/vadeboncoeur23a.html
+,Rigid Body Flows for Sampling Molecular Crystal Structures,ICML_2023,Poster,Chemistry,,https://openreview.net/forum?id=GAfus0XZCD
+,SE(3) diffusion model with application to protein backbone generation,ICML_2023,Poster,Biology,Generative_Model,https://openreview.net/forum?id=m8OUBymxwv
+,Social learning spontaneously emerges by searching optimal heuristics with deep reinforcement learning,ICML_2023,Poster,Social Science,Reindorcement_Learning,https://proceedings.mlr.press/v202/ha23a.html
+,Solving High-Dimensional PDEs with Latent Spectral Models,ICML_2023,Poster,Math,,https://proceedings.mlr.press/v202/wu23f.html
+,Structure-informed Language Models Are Protein Designers,ICML_2023,Poster,Biology,Lanuage_Model,https://proceedings.mlr.press/v202/zheng23a.html
+,SurProGenes: Survival Risk-Ordered Representation of Cancer Patients and Genes for the Identification of Prognostic Genes,ICML_2023,Poster,Healthcare,General,https://openreview.net/forum?id=t4COq27gBs
+,The Acquisition of Physical Knowledge in Generative Neural Networks,ICML_2023,Poster,Physics,Generative_Model,https://openreview.net/forum?id=C5lAsw1GCg
+,Uncertainty Estimation for Molecules: Desiderata and Methods,ICML_2023,Poster,Biology,Graph_Neural_Network,https://proceedings.mlr.press/v202/wollschlager23a.html
+,User-defined Event Sampling and Uncertainty Quantification in Diffusion Models for Physical Dynamical Systems,ICML_2023,Poster,Physics,Diffusion_Model,https://proceedings.mlr.press/v202/finzi23a.html
+,Von Mises Mixture Distributions for Molecular Conformation Generation,ICML_2023,Poster,Chemistry,Generative_Model,https://proceedings.mlr.press/v202/swanson23a.html

@@ -1,0 +1,41 @@
+name,Conference,type,Application,MLTech,virtualsite_url
+3D Infomax improves GNNs for Molecular Property Prediction,ICML2022,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=MKtcNNrhCeF
+3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design,ICML2022,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=JG1CpbBzQ8M
+A Deep Learning Approach for the Segmentation of Electroencephalography Data in Eye Tracking Applications,ICML2022,Poster,Neoroscience,Neural_Network,https://openreview.net/forum?id=sa1tIBE7_rd
+An Intriguing Property of Geophysics Inversion,ICML2022,Poster,Physics,Supervised_Pearning,https://openreview.net/forum?id=kVJ3Ushn3Q
+AutoIP: A United Framework to Integrate Physics into Gaussian Processes,ICML2022,Poster,Physics,Gaussian_Process,https://openreview.net/forum?id=Kw9rv0Otr4
+Composing Partial Differential Equations with Physics-Aware Neural Networks,ICML2022,Poster,Math,Neural_Network,https://openreview.net/forum?id=DIsWHvtU7lF
+Conformal Prediction Sets with Limited False Positives,ICML2022,Poster,Chemistry,Optimization,https://openreview.net/forum?id=rbajSHy1Ny
+Cycle Representation Learning for Inductive Relation Prediction,ICML2022,Poster,Math,Graph_Neural_Network,https://openreview.net/forum?id=Zi7r5Ak6si
+Deep Squared Euclidean Approximation to the Levenshtein Distance for DNA Storage,ICML2022,Poster,Biology,Optimization,https://openreview.net/forum?id=lkQ53k7J22C
+Disentangling Disease-related Representation from Obscure for Disease Prediction,ICML2022,Poster,Health,Generative_Model,https://proceedings.mlr.press/v162/wang22f.html
+Dual Decomposition of Convex Optimization Layers for Consistent Attention in Medical Images,ICML2022,Poster,Medicine,,https://proceedings.mlr.press/v162/ron22a.html
+EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction,ICML2022,Poster,Medicine,Graph_Neural_Network,https://openreview.net/forum?id=e42B5C9cYyA
+Equivariant Diffusion for Molecule Generation in 3D,ICML2022,Poster,Chemistry,Generative_Models,https://proceedings.mlr.press/v162/hoogeboom22a.html
+Feature selection using e-values,ICML2022,Poster,Climate,Probalistic_Methods,https://proceedings.mlr.press/v162/majumdar22a.html
+Generalized Leverage Scores: Geometric Interpretation and Applications,ICML2022,Poster,Math,General,https://openreview.net/forum?id=njELXxyYMy
+Generalizing to New Physical Systems via Context-Informed Dynamics Model,ICML2022,Poster,Physics,,https://proceedings.mlr.press/v162/kirchmeyer22a.html
+Generating 3D Molecules for Target Protein Binding,ICML2022,Poster,Biology,Generative_Models,https://openreview.net/forum?id=A0aodGIrHP7
+Generative Coarse-Graining of Molecular Conformations,ICML2022,Poster,Chemistry,Generative_Models,https://openreview.net/forum?id=0PuRdTcNJKe
+Learning inverse folding from millions of predicted structures,ICML2022,Poster,Chemistry,,https://proceedings.mlr.press/v162/hsu22a.html
+Learning of Cluster-based Feature Importance for Electronic Health Record Time-series,ICML2022,Poster,Health,,https://proceedings.mlr.press/v162/aguiar22a.html
+Learning to Estimate and Refine Fluid Motion with Physical Dynamics,ICML2022,Poster,Physics,Optimization,https://proceedings.mlr.press/v162/zhang22ad.html
+Learning to Predict Graphs with Fused Gromov-Wasserstein Barycenters,ICML2022,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=NHcOsY2C0Qi
+Learning to Solve PDE-constrained Inverse Problems with Graph Networks,ICML2022,Poster,Math,Graph_Neural_Network,https://openreview.net/forum?id=QRuovfQK2Z9
+Lie Point Symmetry Data Augmentation for Neural PDE Solvers,ICML2022,Poster,Math,Neural_Network,https://openreview.net/forum?id=oFXLT2KMS9
+LIMO: Latent Inceptionism for Targeted Molecule Generation,ICML2022,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=0_HDaeOnQj
+Locally Sparse Neural Networks for Tabular Biomedical Data,ICML2022,Poster,Biology,Supervised_Learning,https://openreview.net/forum?id=B6wr8M_TR1K
+ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases,ICML2022,Poster,Health,General,https://openreview.net/forum?id=qdtFFVrWw89
+ModLaNets: Learning Generalisable Dynamics via Modularity and Physical Inductive Bias,ICML2022,Poster,Physics,Optimization,https://openreview.net/forum?id=03UYf10gxQU
+"Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps",ICML2022,Poster,Neoroscience,Generative_Model,https://proceedings.mlr.press/v162/pasquiou22a.html
+NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields,ICML2022,Poster,Physics,,https://openreview.net/forum?id=3T4oJlXEQO9
+Path-Aware and Structure-Preserving Generation of Synthetically Accessible Molecules,ICML2022,Poster,Chemistry,Generative_Model,https://proceedings.mlr.press/v162/noh22a.html
+PDE-Based Optimal Strategy for Unconstrained Online Learning,ICML2022,Poster,Math,Optimization,https://proceedings.mlr.press/v162/zhang22d.html
+Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets,ICML2022,Poster,Biology,Generative_Model,https://proceedings.mlr.press/v162/peng22b.html
+Proximal Exploration for Model-guided Protein Sequence Design,ICML2022,Poster,Biology,Optimization,https://openreview.net/forum?id=6nnbMTIC2l
+Quantum-Inspired Algorithms from Randomized Numerical Linear Algebra,ICML2022,Poster,Math,Optimization,https://proceedings.mlr.press/v162/chepurko22a.html
+Robust SDE-Based Variational Formulations for Solving Linear PDEs via Deep Learning,ICML2022,Poster,Math,Neural_Network,https://openreview.net/forum?id=O53vM1sc3O
+Solving the Right Problems: Making ML Models Relevant to Healthcare and the Life Sciences,ICML2022,Oral,Health,General,https://proceedings.mlr.press/v162/kiyasseh22a.html
+SoQal: Selective Oracle Questioning for Consistency Based Active Learning of Cardiac Signals,ICML2022,Poster,Health,Optimization,https://proceedings.mlr.press/v162/kiyasseh22a.html https://ICML.cc//virtual/2022/poster/15969
+Tranception: Protein Fitness Prediction with Autoregressive Transformers and Inference-time Retrieval,ICML2022,Poster,Biology,Generative_Model,https://openreview.net/forum?id=lkb6Ofm7aEq
+Variational Mixtures of ODEs for Inferring Cellular Gene Expression Dynamics,ICML2022,Poster,Biology,Generative_Model,https://proceedings.mlr.press/v162/gu22a.html
