@@ -1,7 +1,7 @@
 name,Conference,type,Application,MLTech,virtualsite_url
 3D Infomax improves GNNs for Molecular Property Prediction,ICML_2022,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=MKtcNNrhCeF
 3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design,ICML_2022,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=JG1CpbBzQ8M
-A Deep Learning Approach for the Segmentation of Electroencephalography Data in Eye Tracking Applications,ICML_2022,Poster,Neuroscience,Neural_Network,https://openreview.net/forum?id=sa1tIBE7_rd
+A Deep Learning Approach for the Segmentation of Electroencephalography Data in Eye Tracking Applications,ICML_2022,Poster,Neurosciences,Neural_Network,https://openreview.net/forum?id=sa1tIBE7_rd
 An Intriguing Property of Geophysics Inversion,ICML_2022,Poster,Physics,Generative_Model,https://openreview.net/forum?id=kVJ3Ushn3Q
 AutoIP: A United Framework to Integrate Physics into Gaussian Processes,ICML_2022,Poster,Physics,Gaussian_Process,https://openreview.net/forum?id=Kw9rv0Otr4
 Composing Partial Differential Equations with Physics-Aware Neural Networks,ICML_2022,Poster,Math,Neural_Network,https://openreview.net/forum?id=DIsWHvtU7lF
@@ -27,7 +27,7 @@ LIMO: Latent Inceptionism for Targeted Molecule Generation,ICML_2022,Poster,Chem
 Locally Sparse Neural Networks for Tabular Biomedical Data,ICML_2022,Poster,Biology,Deep_Neural_Network,https://openreview.net/forum?id=B6wr8M_TR1K
 ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases,ICML_2022,Poster,Health,General,https://openreview.net/forum?id=qdtFFVrWw89
 ModLaNets: Learning Generalisable Dynamics via Modularity and Physical Inductive Bias,ICML_2022,Poster,Physics,Optimization,https://openreview.net/forum?id=03UYf10gxQU
-"Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps",ICML_2022,Poster,Neuroscience,Generative_Model,https://proceedings.mlr.press/v162/pasquiou22a.html
+"Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps",ICML_2022,Poster,Neurosciences,Generative_Model,https://proceedings.mlr.press/v162/pasquiou22a.html
 NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields,ICML_2022,Poster,Physics,,https://openreview.net/forum?id=3T4oJlXEQO9
 Path-Aware and Structure-Preserving Generation of Synthetically Accessible Molecules,ICML_2022,Poster,Chemistry,Generative_Model,https://proceedings.mlr.press/v162/noh22a.html
 PDE-Based Optimal Strategy for Unconstrained Online Learning,ICML_2022,Poster,Math,Optimization,https://proceedings.mlr.press/v162/zhang22d.html
