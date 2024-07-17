@@ -1,15 +1,15 @@
 Title,Conference,Type,Application,MLTech,OpenReviewLink
-3D Self-Supervised Methods for Medical Imaging,NeurIPS_2020,Poster,Medicine,Neural_Network,https://openreview.net/forum?id=3I3k2MN2lO
+3D Self-Supervised Methods for Medical Imaging,NeurIPS_2020,Poster,Medical_Sciences,Neural_Network,https://openreview.net/forum?id=3I3k2MN2lO
 Attention-Gated Brain Propagation: How the brain can implement reward-based error backpropagation,NeurIPS_2020,Poster,Biology,Reinforce_Learning,https://openreview.net/forum?id=QKVW41dIC9H
 Barking up the right tree: an approach to search over molecule synthesis DAGs,NeurIPS_2020,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=afuTIYBbK6
 Causal Discovery in Physical Systems from Videos,NeurIPS_2020,Poster,Physics,,https://openreview.net/forum?id=9WFMZz98v_1
-CogMol: Target-Specific and Selective Drug Design for COVID-19 Using Deep Generative Models,NeurIPS_2020,Poster,Medicine,Generative_Model,https://openreview.net/forum?id=eFq4n1tVNPy
+CogMol: Target-Specific and Selective Drug Design for COVID-19 Using Deep Generative Models,NeurIPS_2020,Poster,Medical_Sciences,Generative_Model,https://openreview.net/forum?id=eFq4n1tVNPy
 Compact task representations as a normative model for higher-order brain activity,NeurIPS_2020,Poster,Neuroscience,,https://openreview.net/forum?id=rXZjY55DMFE
-Contrastive learning of global and local features for medical image segmentation with limited annotations,NeurIPS_2020,Poster,Medicine,,https://openreview.net/forum?id=qmxGyb4uat3
-Deep Energy-based Modeling of Discrete-Time Physics,NeurIPS_2020,Poster,Medicine,,https://openreview.net/forum?id=bVIjL38o6Y
+Contrastive learning of global and local features for medical image segmentation with limited annotations,NeurIPS_2020,Poster,Medical_Sciences,,https://openreview.net/forum?id=qmxGyb4uat3
+Deep Energy-based Modeling of Discrete-Time Physics,NeurIPS_2020,Poster,Medical_Sciences,,https://openreview.net/forum?id=bVIjL38o6Y
 Demixed shared component analysis of neural population data from multiple brain areas,NeurIPS_2020,Poster,Neuroscience,,https://openreview.net/forum?id=lw5mAyScjP
-Disentangling Human Error from Ground Truth in Segmentation of Medical Images,NeurIPS_2020,Poster,Medicine,Graph_Neural_Network,https://openreview.net/forum?id=Ieoo89Zz-cr
-Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization,NeurIPS_2020,Poster,Medicine,Neural_Network,https://openreview.net/forum?id=VIFwbyO1pBo
+Disentangling Human Error from Ground Truth in Segmentation of Medical Images,NeurIPS_2020,Poster,Medical_Sciences,Graph_Neural_Network,https://openreview.net/forum?id=Ieoo89Zz-cr
+Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization,NeurIPS_2020,Poster,Medical_Sciences,Neural_Network,https://openreview.net/forum?id=VIFwbyO1pBo
 Ensembling geophysical models with Bayesian Neural Networks,NeurIPS_2020,Poster,Earth_Sciences,Neural_Network,https://openreview.net/forum?id=-ITA5ACbLmI
 Guiding Deep Molecular Optimization with Genetic Exploration,NeurIPS_2020,Poster,Biology,Neural_Network,https://openreview.net/forum?id=ebV2Wjtdo_B
 JAX MD: A Framework for Differentiable Physics,NeurIPS_2020,Poster,Physics,Graph_Neural_Network,https://openreview.net/forum?id=ebV2Wjtdo_B
