@@ -3,19 +3,19 @@ ACAT: Adversarial Counterfactual Attention for Classification and Detection in M
 A Group Symmetric Stochastic Differential Equation Model for Molecule Multi-modal Pretraining,ICML_2023,Poster,Chemistry,,https://openreview.net/forum?id=mPEVwu50th
 A Neural PDE Solver with Temporal Stencil Modeling,ICML_2023,Poster,Math,,https://proceedings.mlr.press/v202/liu23h.html
 Automated Search for Conjectures on Mathematical Constants using Analysis of Integer Sequences,ICML_2023,Poster,Math,,https://proceedings.mlr.press/v202/razon23a.html
-Chemically Transferable Generative Backmapping of Coarse-Grained Proteins,ICML_2023,Poster,Protein,Generative_Model,https://proceedings.mlr.press/v202/yang23e.html
+Chemically Transferable Generative Backmapping of Coarse-Grained Proteins,ICML_2023,Poster,Biology,Generative_Model,https://proceedings.mlr.press/v202/yang23e.html
 ClimaX: A foundation model for weather and climate,ICML_2023,Poster,Climate,,https://openreview.net/forum?id=TowCaiz7Ui
 Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D,ICML_2023,Poster,Chemistry,,https://openreview.net/forum?id=7haEvhb25X
 Conditional Graph Information Bottleneck for Molecular Relational Learning,ICML_2023,Poster,Chemistry,,https://openreview.net/forum?id=z8zcMmvKSB
 DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design,ICML_2023,Poster,Chemistry,,https://openreview.net/forum?id=j69E3-twUK
 Drug Discovery under Covariate Shift with Domain-Informed Prior Distributions over Functions,ICML_2023,Poster,Chemistry,,https://proceedings.mlr.press/v202/klarner23a.html
-Efficient Approximations of Complete Interatomic Potentials for Crystal Property Prediction,ICML_2023,Poster,Material,,https://openreview.net/forum?id=N9XDGqqVmf
+Efficient Approximations of Complete Interatomic Potentials for Crystal Property Prediction,ICML_2023,Poster,Materials,,https://openreview.net/forum?id=N9XDGqqVmf
 Efficient Learning of Mesh-Based Physical Simulation with Bi-Stride Multi-Scale Graph Neural Network,ICML_2023,Poster,Physics,Graph_Neural_Network,https://openreview.net/forum?id=FCTyqEuH14
 Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language,ICML_2023,Poster,Chemistry,Lanuage_Model,https://openreview.net/forum?id=-gRBqsmK-tm
 Evidential Interactive Learning for Medical Image Captioning,ICML_2023,Poster,Healthcare,Graph_Neural_Network,https://proceedings.mlr.press/v202/zheng23g.html
 Ewald-based Long-Range Message Passing for Molecular Graphs,ICML_2023,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=vd5JYAml0A
 Exploring Chemical Space with Score-based Out-of-distribution Generation,ICML_2023,Poster,Chemistry,Generative_Model,https://proceedings.mlr.press/v202/lee23f.html
-FAENet: Frame Averaging Equivariant GNN for Materials Modeling,ICML_2023,Poster,Material,Graph_Neural_Network,https://proceedings.mlr.press/v202/duval23a.html
+FAENet: Frame Averaging Equivariant GNN for Materials Modeling,ICML_2023,Poster,Materials,Graph_Neural_Network,https://proceedings.mlr.press/v202/duval23a.html
 Fractional Denoising for 3D Molecular Pre-training,ICML_2023,Poster,Chemistry,,https://proceedings.mlr.press/v202/feng23c.html
 FusionRetro: Molecule Representation Fusion via In-Context Learning for Retrosynthetic Planning,ICML_2023,Poster,Chemistry,,https://openreview.net/forum?id=BTRKmm4HXxv
 Gaussian processes at the Helm(holtz): A more fluid model for ocean currents,ICML_2023,Poster,Environment,Gaussian_Process,https://openreview.net/forum?id=Qtix8HLmDx
@@ -55,5 +55,5 @@ Structure-informed Language Models Are Protein Designers,ICML_2023,Poster,Biolog
 SurProGenes: Survival Risk-Ordered Representation of Cancer Patients and Genes for the Identification of Prognostic Genes,ICML_2023,Poster,Healthcare,General,https://openreview.net/forum?id=t4COq27gBs
 The Acquisition of Physical Knowledge in Generative Neural Networks,ICML_2023,Poster,Physics,Generative_Model,https://openreview.net/forum?id=C5lAsw1GCg
 Uncertainty Estimation for Molecules: Desiderata and Methods,ICML_2023,Poster,Biology,Graph_Neural_Network,https://proceedings.mlr.press/v202/wollschlager23a.html
-User-defined Event Sampling and Uncertainty Quantification in Diffusion Models for Physical Dynamical Systems,ICML_2023,Poster,Physics,Diffusion_Model,https://proceedings.mlr.press/v202/finzi23a.html
+User-defined Event Sampling and Uncertainty Quantification in Diffusion Models for Physical Dynamical Systems,ICML_2023,Poster,Physics,Generative_Model,https://proceedings.mlr.press/v202/finzi23a.html
 Von Mises Mixture Distributions for Molecular Conformation Generation,ICML_2023,Poster,Chemistry,Generative_Model,https://proceedings.mlr.press/v202/swanson23a.html
