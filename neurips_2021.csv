@@ -1,0 +1,39 @@
+TItle,Conference,Type,Application,MLTech,OpenReviewLink
+A 3D Generative Model for Structure-Based Drug Design,neurips_2021,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=yDwfVD_odRo
+A Bayesian-Symbolic Approach to Reasoning and Learning in Intuitive Physics,neurips_2021,Poster,Physics,Optimization,https://openreview.net/forum?id=WN8ChCARq2
+Auto-Encoding Knowledge Graph for Unsupervised Medical Report Generation,neurips_2021,Poster,Medical_Sciences,Graph_Neural_Network,https://openreview.net/forum?id=nIL7Q-p7-Sh
+Breaking the Dilemma of Medical Image-to-image Translation,neurips_2021,Poster,Medical_Sciences,Generative_Model,https://openreview.net/forum?id=C0GmZH2RnVR
+Bubblewrap: Online tiling and real-time flow prediction on neural manifolds,neurips_2021,Poster,Neurosciences,,https://openreview.net/forum?id=SjxC07jABZ4
+Can fMRI reveal the representation of syntactic structure in the brain?,neurips_2021,Poster,Neurosciences,Graph_Neural_Network,https://openreview.net/forum?id=fCjd2bXG5iI
+Closing the loop in medical decision support by understanding clinical decision-making: A case study on organ transplantation,neurips_2021,Poster,Medical_Sciences,Generative_Model,https://openreview.net/forum?id=gBxJ0R9Oua
+Co-evolution Transformer for Protein Contact Prediction,neurips_2021,Poster,Biology,Transformer,https://openreview.net/forum?id=PcpExudEmDd
+"Conditionally Parameterized, Discretization-Aware Neural Networks for Mesh-Based Modeling of Physical Systems",neurips_2021,Poster,Physics,Neural_Network,https://openreview.net/forum?id=0yMGEUQKd2D
+Deep Molecular Representation Learning via Fusing Physical and Chemical Information,neurips_2021,Poster,Chemistry,Representation_Learning,https://openreview.net/forum?id=Uxi7X1EqywV
+Directional Message Passing on Molecular Graphs via Synthetic Coordinates,neurips_2021,Poster,Chemistry,,https://openreview.net/forum?id=ZRu0_3azrCd
+Distilling Meta Knowledge on Heterogeneous Graph for Illicit Drug Trafficker Detection on Social Media,neurips_2021,Poster,Social_Science,Representation_Learning,https://neurips.cc//virtual/2021/poster/26802
+Exploiting Data Sparsity in Secure Cross-Platform Social Recommendation,neurips_2021,Poster,Social_Science,,https://openreview.net/forum?id=1Sn5TeUi1pb
+Functionally Regionalized Knowledge Transfer for Low-resource Drug Discovery,neurips_2021,Poster,Chemistry,,https://openreview.net/forum?id=Dti5bw14YZF
+GemNet: Universal Directional Graph Neural Networks for Molecules,neurips_2021,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=HS_sOaxS9K-
+GeoMol: Torsional Geometric Generation of Molecular 3D Conformer Ensembles,neurips_2021,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=af_hng9tuNj
+Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation,neurips_2021,Poster,Chemistry,,https://openreview.net/forum?id=onyYGbBJ2Mh
+Integrating Expert ODEs into Neural ODEs: Pharmacology and Disease Progression,neurips_2021,Poster,Medical_Sciences,General,https://openreview.net/forum?id=dDcs_iSZze5
+Language models enable zero-shot prediction of the effects of mutations on protein function,neurips_2021,Poster,Biology,,https://openreview.net/forum?id=uXc42E9ZPFs
+Learning Dynamic Graph Representation of Brain Connectome with Spatio-Temporal Attention,neurips_2021,Poster,Neurosciences,Graph_Neural_Network,https://openreview.net/forum?id=X7GEA3KiJiH
+Learning Robust Hierarchical Patterns of Human Brain across Many fMRI Studies,neurips_2021,Poster,Neurosciences,,https://openreview.net/forum?id=OumxnZ9lrg-
+Learning to Elect,neurips_2021,Poster,Social_Science,Neural_Network,https://openreview.net/forum?id=7HQiArc-sKf
+Minimizing Polarization and Disagreement in Social Networks via Link Recommendation,neurips_2021,Poster,Social_Science,Optimization,https://openreview.net/forum?id=ye-NP0VZtLC
+Motif-based Graph Self-Supervised Learning for Molecular Property Prediction,neurips_2021,Poster,Chemistry,,https://openreview.net/forum?id=gwGYN1fQY8H
+Multi-Scale Representation Learning on Proteins,neurips_2021,Poster,Biology,Representation_Learning,https://openreview.net/forum?id=-xEk43f_EO6
+Parametric Complexity Bounds for Approximating PDEs with Neural Networks,neurips_2021,Poster,Math,Neural_Network,https://openreview.net/forum?id=HbViCqfbd7
+Physics-Aware Downsampling with Deep Learning for Scalable Flood Modeling,neurips_2021,Poster,Earth_Sciences,,https://openreview.net/forum?id=A_TVp2HtxPS
+Predicting Molecular Conformation via Dynamic Graph Score Matching,neurips_2021,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=hMY6nm9lld
+Property-Aware Relation Networks for Few-Shot Molecular Property Prediction,neurips_2021,Poster,Chemistry,,https://openreview.net/forum?id=vGjTOxss-Dl
+Reinforcement learning for optimization of variational quantum circuit architectures,neurips_2021,Poster,Chemistry,"Reinforcement_Learning
+",https://openreview.net/forum?id=JQznhE5mdyv
+Removing Inter-Experimental Variability from Functional Data in Systems Neuroscience,neurips_2021,Poster,Neurosciences,Optimization,https://openreview.net/forum?id=lVmIjQiJJSr
+Reverse-Complement Equivariant Networks for DNA Sequences,neurips_2021,Poster,Biology,Neural_Network,https://openreview.net/forum?id=AD4jtD8wE1w
+"Scalars are universal: Equivariant machine learning, structured like classical physics",neurips_2021,Poster,Physics,,https://openreview.net/forum?id=ba27-RzNaIv
+SE(3)-equivariant prediction of molecular wavefunctions and electronic densities,neurips_2021,Poster,Chemistry,,https://openreview.net/forum?id=auGY2UQfhSu
+Self-Paced Contrastive Learning for Semi-supervised Medical Image Segmentation with Meta-labels,neurips_2021,Poster,Medical_Sciences,,https://openreview.net/forum?id=8Uui49rOfc
+Strategic Behavior is Bliss: Iterative Voting Improves Social Welfare,neurips_2021,Poster,Social_Science,,https://openreview.net/forum?id=MrAN2U5EPZZ
+VigDet: Knowledge Informed Neural Temporal Point Process for Coordination Detection on Social Media,neurips_2021,Poster,Social_Science,Generative_Model,https://openreview.net/forum?id=wo_0R04TSrF
