@@ -10,13 +10,19 @@ from wordcloud import WordCloud, STOPWORDS
 d = path.dirname(__file__) if "__file__" in locals() else os.getcwd()
 
 # Read the whole text.
-lists = ['../icml/icml_2024.csv', '../neurips/neurips_2023.csv']
+venues = ['icml', 'neurips']
+lists = []
+for i in venues:
+  lists.extend([os.path.join(f'../{i}',j) for j in os.listdir(f'../{i}')])
 text_science = []
 text_ml = []
 for i in lists:
   data = pd.read_csv(i,dtype=str)
   text_science.extend(list(data['Application']))
   text_ml.extend(list(data['MLTech']))
+
+text_science = [x for x in text_science if str(x) != 'nan']
+text_ml = [x for x in text_ml if str(x) != 'nan']
 
 text_science=" ".join(text_science)
 text_ml=" ".join(text_ml)
