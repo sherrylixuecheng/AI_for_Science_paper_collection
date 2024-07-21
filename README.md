@@ -36,7 +36,7 @@ If you want to join the team, please contact <a href="mailto:sherrylixuecheng@go
 ## Trends
 (1) AI for Science papers increase every year
 <p align="center">
-  <img src="src/ai4s_paper_ratio.png" width="600" title="Applications of ML papers in main conferences">
+  <img src="src/ai4s_paper_ratio.png" width="400" title="Applications of ML papers in main conferences">
 </p>
 
 (2) Trends of different applications
