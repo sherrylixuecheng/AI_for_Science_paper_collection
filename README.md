@@ -14,8 +14,8 @@ Each `.csv` file contains the correponding list of each year. Currently, the pap
 
 *2. Annual Conference on Neural Information Processing Systems (NeurIPS)*
 - [NeurIPS 2023](neurips/neurips_2023.csv): Total 3584 
-- TBA [NeurIPS 2022](neurips/neurips_2022.csv): Total 2911
-- TBA [NeurIPS 2021](neurips/neurips_2021.csv): Total 2342
+- [NeurIPS 2022](neurips/neurips_2022.csv): Total 2911
+- [NeurIPS 2021](neurips/neurips_2021.csv): Total 2342
 - [NeurIPS 2020](neurips/neurips_2020.csv): Total 1909 
 
 *3. International Conference on Learning Representations (ICLR)*
