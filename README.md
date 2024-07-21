@@ -32,3 +32,8 @@ If you want to join the team, please contact <a href="mailto:sherrylixuecheng@go
   <img src="src/ml.png" width="400" title="ML techniques">
   <img src="src/science.png" width="400" title="Science applications">
 </p>
+
+## Application trends
+<p align="center">
+  <img src="src/conference_application_year.png" width="400" title="Applications of ML papers in main conferences">
+</p>
