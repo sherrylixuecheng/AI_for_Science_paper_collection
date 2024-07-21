@@ -7,7 +7,7 @@ Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generativ
 Approximate Euclidean lengths and distances beyond Johnson-Lindenstrauss,neurips_2022,Poster,Math,,https://openreview.net/forum?id=_N4k45mtnuq
 A Unified Hard-Constraint Framework for Solving Geometrically Complex PDEs,neurips_2022,Poster,Math,Neural_Network,https://openreview.net/forum?id=GNt5ntEGjD3
 CEDe: A collection of expert-curated datasets with atom-level entity annotations for Optical Chemical Structure Recognition,neurips_2022,Poster,Chemistry,,https://openreview.net/forum?id=9K-8l0WgSK3
- Class-Aware Adversarial Transformers for Medical Image Segmentation ,neurips_2022,Poster,Medical_Sciences,Transformers,https://openreview.net/forum?id=aqLugNVQqRw
+ Class-Aware Adversarial Transformers for Medical Image Segmentation ,neurips_2022,Poster,Medical_Sciences,Transformer,https://openreview.net/forum?id=aqLugNVQqRw
 ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs,neurips_2022,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=mCzMqeWSFJ
 "ConfLab: A Data Collection Concept, Dataset, and Benchmark for Machine Analysis of Free-Standing Social Interactions in the Wild",neurips_2022,Poster,Social_Science,,https://openreview.net/forum?id=CNJQKM5cV2o
 Constrained Predictive Coding as a Biologically Plausible Model of the Cortical Hierarchy,neurips_2022,Poster,Biology,,https://openreview.net/forum?id=TVpZaWNczF6
@@ -52,10 +52,10 @@ Non-identifiability and the Blessings of Misspecification in Models of Molecular
 On the Learning Mechanisms in Physical Reasoning,neurips_2022,Poster,Physics,Dynamics_Prediction,https://openreview.net/forum?id=QXiYW3TrgXj
 OpenSRH: optimizing brain tumor surgery using intraoperative stimulated Raman histology,neurips_2022,Poster,Medical_Sciences,Convolutional_Neural_Network,https://openreview.net/forum?id=2N8JzuiWZ25
 PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding,neurips_2022,Poster,Biology,,https://neurips.cc//virtual/2022/poster/55752
-Periodic Graph Transformers for Crystal Material Property Prediction,neurips_2022,Poster,Materials,Transformers,https://openreview.net/forum?id=pqCT3L-BU9T
+Periodic Graph Transformers for Crystal Material Property Prediction,neurips_2022,Poster,Materials,Transformer,https://openreview.net/forum?id=pqCT3L-BU9T
 PhysGNN: A Physics--Driven Graph Neural Network Based Model for Predicting Soft Tissue Deformation in Image--Guided Neurosurgery,neurips_2022,Poster,Physics,,https://openreview.net/forum?id=yZgxl3bgumu
 Predicting Cellular Responses to Novel Drug Perturbations at a Single-Cell Resolution,neurips_2022,Poster,Biology,,https://openreview.net/forum?id=vRrFVHxFiXJ
-Probabilistic Transformer: Modelling Ambiguities and Distributions for RNA Folding  and Molecule Design,neurips_2022,Poster,Biology,Transformers,https://openreview.net/forum?id=RF74aWLrvBp
+Probabilistic Transformer: Modelling Ambiguities and Distributions for RNA Folding  and Molecule Design,neurips_2022,Poster,Biology,Transformer,https://openreview.net/forum?id=RF74aWLrvBp
 Regularized Molecular Conformation Fields,neurips_2022,Poster,Chemistry,,https://openreview.net/forum?id=7XCFxnG8nGS
 Reinforced Genetic Algorithm for Structure-based Drug Design,neurips_2022,Poster,Chemistry,Genertive_Model,https://openreview.net/forum?id=Qx6UPW0r9Lf
 Robust and scalable manifold learning via landmark diffusion for long-term medical signal processing,neurips_2022,Poster,Medical_Sciences,,
