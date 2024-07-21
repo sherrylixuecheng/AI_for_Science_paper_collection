@@ -16,12 +16,12 @@ Data Augmentation for Compositional Data: Advancing Predictive Models of the Mic
 DDXPlus: A New Dataset For Automatic Medical Diagnosis,neurips_2022,Poster,Medical_Sciences,,https://openreview.net/forum?id=heBKnuV42O
 "Debiased, Longitudinal and Coordinated Drug Recommendation through Multi-Visit Clinic Records",neurips_2022,Poster,Healthcare,Optimization,https://openreview.net/forum?id=zVglD2W0EAS
 Diagnosing failures of fairness transfer across distribution shift in real-world medical settings,neurips_2022,Poster,Healthcare,,https://openreview.net/forum?id=K-A4tDJ6HHf
-Diffusion-based Molecule Generation with Informative Prior Bridges,neurips_2022,Poster,Biology,Genertive_Model,https://openreview.net/forum?id=TJUNtiZiTKE
+Diffusion-based Molecule Generation with Informative Prior Bridges,neurips_2022,Poster,Biology,Generative_Model,https://openreview.net/forum?id=TJUNtiZiTKE
 Does GNN Pretraining Help Molecular Representation?,neurips_2022,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=uytgM9N0vlR
 Dual-Curriculum Contrastive Multi-Instance Learning for Cancer Prognosis Analysis with Whole Slide Images,neurips_2022,Poster,Medical_Sciences,,https://openreview.net/forum?id=dsxuTEf01d5
 EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records,neurips_2022,Poster,Healthcare,,https://openreview.net/forum?id=B2W8Vy0rarw
 ENS-10: A Dataset For Post-Processing Ensemble Weather Forecasts,neurips_2022,Poster,Earth_Sciences,,https://openreview.net/forum?id=Z0s5T89qfjc
-Equivariant Networks for Crystal Structures,neurips_2022,Poster,Materials,Genertive_Model,https://openreview.net/forum?id=0Dh8dz4snu
+Equivariant Networks for Crystal Structures,neurips_2022,Poster,Materials,Generative_Model,https://openreview.net/forum?id=0Dh8dz4snu
 ESCADA: Efficient Safety and Context Aware Dose Allocation for Precision Medicine,neurips_2022,Poster,Healthcare,Gaussian_Process,https://openreview.net/forum?id=JokpPqA294
 Estimating graphical models for count data with applications to single-cell gene network,neurips_2022,Poster,Biology,Graph_Neural_Network,https://openreview.net/forum?id=7k_J2kkIy3U
 "Expected Frequency Matrices of Elections: Computation, Geometry, and Preference Learning",neurips_2022,Poster,Social_Science,,https://openreview.net/forum?id=X3RuacCx1R
@@ -33,7 +33,7 @@ Infinite-Fidelity Coregionalization  for Physical Simulation,neurips_2022,Poster
 Injecting Domain Knowledge from Empirical Interatomic Potentials to Neural Networks for Predicting Material Properties,neurips_2022,Poster,Materials,Neural_Network,https://openreview.net/forum?id=XCIKp-icFm
 Inverse Design for Fluid-Structure Interactions using Graph Network Simulators,neurips_2022,Poster,Physics,Graph_Neural_Network,https://openreview.net/forum?id=HaZuqj0Gvp2
 Learning Physical Dynamics with Subequivariant Graph Neural Networks,neurips_2022,Poster,Physics,Graph_Neural_Network,https://openreview.net/forum?id=siG_S8mUWxf
-Learning Physics Constrained Dynamics Using Autoencoders,neurips_2022,Poster,Physics,Genertive_Model,https://openreview.net/forum?id=Rgz_prESe-b
+Learning Physics Constrained Dynamics Using Autoencoders,neurips_2022,Poster,Physics,Generative_Model,https://openreview.net/forum?id=Rgz_prESe-b
 Learning Substructure Invariance for Out-of-Distribution Molecular Representations,neurips_2022,Poster,Chemistry,,https://openreview.net/forum?id=2nWUNTnFijm
 Learning to Accelerate Partial Differential Equations via Latent Global Evolution,neurips_2022,Poster,Math,Optimization,https://openreview.net/forum?id=xvZtgp5wyYT
 Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering,neurips_2022,Poster,General,,https://openreview.net/forum?id=HjwK-Tc_Bc
@@ -49,7 +49,7 @@ Modular Flows: Differential Molecular Generation,neurips_2022,Poster,Chemistry,G
 Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning,neurips_2022,Poster,Medical_Sciences,Representation_Learning,https://openreview.net/forum?id=Yul402KcD5d
 NeuPhysics: Editable Neural Geometry and Physics from Monocular Videos,neurips_2022,Poster,Physics,,https://openreview.net/forum?id=QXLue5WoSBE
 Non-identifiability and the Blessings of Misspecification in Models of Molecular Fitness,neurips_2022,Poster,Biology,,https://openreview.net/forum?id=CwG-o0ind6t
-On the Learning Mechanisms in Physical Reasoning,neurips_2022,Poster,Physics,Dynamics_Prediction,https://openreview.net/forum?id=QXiYW3TrgXj
+On the Learning Mechanisms in Physical Reasoning,neurips_2022,Poster,Physics,,https://openreview.net/forum?id=QXiYW3TrgXj
 OpenSRH: optimizing brain tumor surgery using intraoperative stimulated Raman histology,neurips_2022,Poster,Medical_Sciences,Convolutional_Neural_Network,https://openreview.net/forum?id=2N8JzuiWZ25
 PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding,neurips_2022,Poster,Biology,,https://neurips.cc//virtual/2022/poster/55752
 Periodic Graph Transformers for Crystal Material Property Prediction,neurips_2022,Poster,Materials,Transformer,https://openreview.net/forum?id=pqCT3L-BU9T
@@ -57,14 +57,14 @@ PhysGNN: A Physics--Driven Graph Neural Network Based Model for Predicting Soft 
 Predicting Cellular Responses to Novel Drug Perturbations at a Single-Cell Resolution,neurips_2022,Poster,Biology,,https://openreview.net/forum?id=vRrFVHxFiXJ
 Probabilistic Transformer: Modelling Ambiguities and Distributions for RNA Folding  and Molecule Design,neurips_2022,Poster,Biology,Transformer,https://openreview.net/forum?id=RF74aWLrvBp
 Regularized Molecular Conformation Fields,neurips_2022,Poster,Chemistry,,https://openreview.net/forum?id=7XCFxnG8nGS
-Reinforced Genetic Algorithm for Structure-based Drug Design,neurips_2022,Poster,Chemistry,Genertive_Model,https://openreview.net/forum?id=Qx6UPW0r9Lf
+Reinforced Genetic Algorithm for Structure-based Drug Design,neurips_2022,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=Qx6UPW0r9Lf
 Robust and scalable manifold learning via landmark diffusion for long-term medical signal processing,neurips_2022,Poster,Medical_Sciences,,
 Sample Efficiency Matters: A Benchmark for Practical Molecular Optimization,neurips_2022,Poster,Chemistry,Optimization,https://openreview.net/forum?id=yCZRdI0Y7G
 So3krates: Equivariant attention for interactions on arbitrary length-scales in molecular systems,neurips_2022,Poster,Chemistry,,https://openreview.net/forum?id=tlUnxtAmcJq
-Stimulative Training of Residual Networks: A Social Psychology Perspective of Loafing,neurips_2022,Poster,Social_Science,Residual_Network,https://openreview.net/forum?id=NpeHeIkbfYU
+Stimulative Training of Residual Networks: A Social Psychology Perspective of Loafing,neurips_2022,Poster,Social_Science,Residual_Neural_Network,https://openreview.net/forum?id=NpeHeIkbfYU
 TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction,neurips_2022,Poster,Biology,Neural_Network,https://openreview.net/forum?id=MSBDFwGYwwt
-The Dollar Street Dataset: Images Representing the Geographic and Socioeconomic Diversity of the World,neurips_2022,Poster,Social_Science,Supervised_Learning,https://openreview.net/forum?id=qnfYsave0U4
+The Dollar Street Dataset: Images Representing the Geographic and Socioeconomic Diversity of the World,neurips_2022,Poster,Social_Science,,https://openreview.net/forum?id=qnfYsave0U4
 ToDD: Topological Compound Fingerprinting in Computer-Aided Drug Discovery,neurips_2022,Poster,Chemistry,,https://openreview.net/forum?id=8hs7qlWcnGs
 Torsional Diffusion for Molecular Conformer Generation,neurips_2022,Poster,Chemistry,,https://openreview.net/forum?id=w6fj2r62r_H
 UnfoldML: Cost-Aware and Uncertainty-Based Dynamic 2D Prediction for Multi-Stage Classification,neurips_2022,Poster,Healthcare,,https://openreview.net/forum?id=wFwSFojKu6D
-Zero-Shot 3D Drug Design by Sketching and Generating,neurips_2022,Poster,Chemistry,Genertive_Model,https://openreview.net/forum?id=H_xAgRM7I5N
+Zero-Shot 3D Drug Design by Sketching and Generating,neurips_2022,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=H_xAgRM7I5N

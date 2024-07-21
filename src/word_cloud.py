@@ -17,6 +17,7 @@ for i in venues:
 text_science = []
 text_ml = []
 for i in lists:
+  print(i)
   data = pd.read_csv(i,dtype=str)
   text_science.extend(list(data['Application']))
   text_ml.extend(list(data['MLTech']))

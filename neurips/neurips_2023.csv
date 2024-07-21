@@ -77,7 +77,7 @@ Amortized Reparametrization: Efficient and Scalable Variational Inference for La
 De novo Drug Design using Reinforcement Learning with Multiple GPT Agents,NeurIPS_2023,Poster,Biology,Reinforcement_Learning,https://openreview.net/forum?id=1B6YKnHYBb
 Explainable Brain Age Prediction using coVariance Neural Networks,NeurIPS_2023,Poster,Neurosciences,Graph_Neural_Network,https://openreview.net/forum?id=cAhJF87GN0
 Evaluating Cognitive Maps and Planning in Large Language Models with CogEval,NeurIPS_2023,Poster,Neurosciences,Language_Model,https://openreview.net/forum?id=VtkGvGcGe3
-Self-Supervised Learning with Lie Symmetries for Partial Differential Equations,NeurIPS_2023,Poster,Math,Self-supervised_Learning,https://openreview.net/forum?id=ZULq9QV8rH
+Self-Supervised Learning with Lie Symmetries for Partial Differential Equations,NeurIPS_2023,Poster,Math,Embedding,https://openreview.net/forum?id=ZULq9QV8rH
 Implicit Transfer Operator Learning: Multiple Time-Resolution Models for Molecular Dynamics,NeurIPS_2023,Poster,Chemistry,Neural_Network,https://openreview.net/forum?id=1kZx7JiuA2
 Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules,NeurIPS_2023,Poster,Chemistry,Representation_Learning,https://openreview.net/forum?id=fWLf8DV0fI
 DeepSimHO: Stable Pose Estimation for Hand-Object Interaction via Physics Simulation,NeurIPS_2023,Poster,Physics,Neural_Network,https://openreview.net/forum?id=SxVHyYavHy
