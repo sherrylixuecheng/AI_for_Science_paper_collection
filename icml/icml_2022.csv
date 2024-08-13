@@ -30,6 +30,7 @@ Path-Aware and Structure-Preserving Generation of Synthetically Accessible Molec
 PDE-Based Optimal Strategy for Unconstrained Online Learning,ICML_2022,Poster,Math,Online_Learning,https://proceedings.mlr.press/v162/zhang22d.html
 Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets,ICML_2022,Poster,Biology,Generative_Model,https://proceedings.mlr.press/v162/peng22b.html
 Proximal Exploration for Model-guided Protein Sequence Design,ICML_2022,Poster,Biology,Generative_Model,https://proceedings.mlr.press/v162/ren22a.html
+  Robust SDE-Based Variational Formulations for Solving Linear PDEs via Deep Learning,ICML_2022,Poster,Math,Neural_Network,https://openreview.net/forum?id=O53vM1sc3O
 SoQal: Selective Oracle Questioning for Consistency Based Active Learning of Cardiac Signals,ICML_2022,Poster,Health,Active_Learning,https://proceedings.mlr.press/v162/kiyasseh22a.html
 Tranception: Protein Fitness Prediction with Autoregressive Transformers and Inference-time Retrieval,ICML_2022,Poster,Biology,Generative_Model,https://openreview.net/forum?id=lkb6Ofm7aEq
 Variational Mixtures of ODEs for Inferring Cellular Gene Expression Dynamics,ICML_2022,Poster,Biology,Generative_Model,https://proceedings.mlr.press/v162/gu22a.html

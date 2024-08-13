@@ -7,19 +7,21 @@ Each `.csv` file contains the correponding list of each year. Currently, the pap
 ## Covered venues
 *1. International Conference on Machine Learning (ICML)*
 - [ICML 2024](icml/icml_2024.csv): Total 2640 
-- TBA [ICML 2023](icml/icml_2023.csv): Total 1908 
-- TBA [ICML 2022](icml/icml_2022.csv): Total 1237
-- TBA [ICML 2021](icml/icml_2021.csv): Total 1189
-- TBA [ICML 2020](icml/icml_2020.csv): Total 1087
+- [ICML 2023](icml/icml_2023.csv): Total 1908 
+- [ICML 2022](icml/icml_2022.csv): Total 1237
+- [ICML 2021](icml/icml_2021.csv): Total 1189
+- [ICML 2020](icml/icml_2020.csv): Total 1087
 
 *2. Annual Conference on Neural Information Processing Systems (NeurIPS)*
 - [NeurIPS 2023](neurips/neurips_2023.csv): Total 3584 
-- TBA [NeurIPS 2022](neurips/neurips_2022.csv): Total 2911
-- TBA [NeurIPS 2021](neurips/neurips_2021.csv): Total 2342
-- TBA [NeurIPS 2020](neurips/neurips_2020.csv): Total 1909 
+- [NeurIPS 2022](neurips/neurips_2022.csv): Total 2911
+- [NeurIPS 2021](neurips/neurips_2021.csv): Total 2342
+- [NeurIPS 2020](neurips/neurips_2020.csv): Total 1909 
 
 *3. International Conference on Learning Representations (ICLR)*
 - TBA [ICLR 2024](iclr/iclr_2024.csv): Total 2321
+- TBA [ICLR 2023](iclr/iclr_2023.csv): Total 1590 
+- TBA [ICLR 2022](iclr/iclr_2022.csv): Total 1103
 
 ## Contribution guideline
 We are gradually adding the results from past top conferences and welcome volunteers to contribute to this page!
@@ -31,4 +33,15 @@ If you want to join the team, please contact <a href="mailto:sherrylixuecheng@go
 <p align="center">
   <img src="src/ml.png" width="400" title="ML techniques">
   <img src="src/science.png" width="400" title="Science applications">
+</p>
+
+## Trends
+(1) AI for Science papers increase every year
+<p align="center">
+  <img src="src/ai4s_paper_ratio.png" width="400" title="Applications of ML papers in main conferences">
+</p>
+
+(2) Trends of different applications
+<p align="center">
+  <img src="src/conference_application_year.png" width="600" title="Applications of ML papers in main conferences">
 </p>
