@@ -9,7 +9,7 @@ Alleviating the Semantic Gap for Generalized fMRI-to-Image Reconstruction,NeurIP
 AbDiffuser: full-atom generation of in-vitro functioning antibodies,NeurIPS_2023,Spotlight,Biology,Generative_Model,https://openreview.net/forum?id=7GyYpomkEa
 What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement.,NeurIPS_2023,Spotlight,Physics,Neural_Network,https://openreview.net/forum?id=4aIpgq1nuI
 Prefix-Tree Decoding for Predicting Mass Spectra from Molecules,NeurIPS_2023,Spotlight,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=NWEbeI2HNQ
-Stochastic Optimal Control for Collective Variable Free Sampling of Molecular Transition Paths,NeurIPS_2023,Poster,Physics/Biology,Sampling,https://openreview.net/forum?id=LUVqEs90mq
+Stochastic Optimal Control for Collective Variable Free Sampling of Molecular Transition Paths,NeurIPS_2023,Poster,Chemistry,Sampling,https://openreview.net/forum?id=LUVqEs90mq
 "AMAG: Additive, Multiplicative and Adaptive Graph Neural Network For Forecasting Neuron Activity",NeurIPS_2023,Poster,Neurosciences,Graph_Neural_Network,https://openreview.net/forum?id=7ntI4kcoqG
 Versatile Energy-Based Probabilistic Models for High Energy Physics,NeurIPS_2023,Poster,Physics,Generative_Model,https://openreview.net/forum?id=j0U6XJubbP
 M²Hub: Unlocking the Potential of Machine Learning for Materials Discovery,NeurIPS_2023,Poster,Materials,Graph_Neural_Network,https://openreview.net/forum?id=eJ5nu9qvWz
@@ -33,7 +33,7 @@ FABind: Fast and Accurate Protein-Ligand Binding,NeurIPS_2023,Poster,Biology,Neu
 Efficiently incorporating quintuple interactions into geometric deep learning force fields,NeurIPS_2023,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=bPJmu1PbZD
 "Provable Adversarial Robustness for Group Equivariant Tasks: Graphs, Point Clouds, Molecules, and More",NeurIPS_2023,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=mLe63bAYc7
 Convergence analysis of ODE models for accelerated first-order methods via positive semidefinite kernels,NeurIPS_2023,Poster,Math,Optmization,https://openreview.net/forum?id=XFE6zpevLc
-Entropy-dissipation Informed Neural Network for McKean-Vlasov Type PDEs,NeurIPS_2023,Poster,Math,Neural_Network,https://openreview.net/forum?id=FkpMm9avyP
+Entropy-dissipation Informed Neural Network for McKean-Vlasov Type PDEs,NeurIPS_2023,Poster,Physics,Neural_Network,https://openreview.net/forum?id=FkpMm9avyP
 Variational Monte Carlo on a Budget -- Fine-tuning pre-trained Neural Wavefunctions,NeurIPS_2023,Poster,Physics,Neural_Network,https://openreview.net/forum?id=FBNyccPfAu
 Statistical Analysis of Quantum State Learning Process in Quantum Neural Networks,NeurIPS_2023,Poster,Physics,Neural_Network,https://openreview.net/forum?id=6gcY0MGNhj
 PICProp: Physics-Informed Confidence Propagation for Uncertainty Quantification,NeurIPS_2023,Poster,Physics,Uncertainty_Quantification,https://openreview.net/forum?id=EETqXXdqkI
@@ -41,7 +41,7 @@ The emergence of clusters in self-attention dynamics,NeurIPS_2023,Poster,Physics
 Geometric Transformer with Interatomic Positional Encoding,NeurIPS_2023,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=9o6KQrklrE
 May the Force be with You: Unified Force-Centric Pre-Training for 3D Molecular Conformations,NeurIPS_2023,Poster,Chemistry,Transformer,https://openreview.net/forum?id=Ge8Mhggq0z
 DPM-Solver-v3: Improved Diffusion ODE Solver with Empirical Model Statistics,NeurIPS_2023,Poster,Math,Generative_Model,https://openreview.net/forum?id=9fWKExmKa0
-Geometry-Informed Neural Operator for Large-Scale 3D PDEs,NeurIPS_2023,Poster,Math,Neural_Operator,https://openreview.net/forum?id=86dXbqT5Ua
+Geometry-Informed Neural Operator for Large-Scale 3D PDEs,NeurIPS_2023,Poster,Physics,Neural_Operator,https://openreview.net/forum?id=86dXbqT5Ua
 Neural Ideal Large Eddy Simulation: Modeling Turbulence with Neural Stochastic Differential Equations,NeurIPS_2023,Poster,Physics,Generative_Model,https://openreview.net/forum?id=x6cOcxRnxG
 Self-Supervised Learning of Representations for Space Generates Multi-Modular Grid Cells,NeurIPS_2023,Poster,Neurosciences,Representation_Learning,https://openreview.net/forum?id=8ox2vrQiTF
 Learning to Group Auxiliary Datasets for Molecule,NeurIPS_2023,Poster,Chemistry,Optmization,https://openreview.net/forum?id=r9eZH6WNm2
@@ -77,7 +77,7 @@ Amortized Reparametrization: Efficient and Scalable Variational Inference for La
 De novo Drug Design using Reinforcement Learning with Multiple GPT Agents,NeurIPS_2023,Poster,Biology,Reinforcement_Learning,https://openreview.net/forum?id=1B6YKnHYBb
 Explainable Brain Age Prediction using coVariance Neural Networks,NeurIPS_2023,Poster,Neurosciences,Graph_Neural_Network,https://openreview.net/forum?id=cAhJF87GN0
 Evaluating Cognitive Maps and Planning in Large Language Models with CogEval,NeurIPS_2023,Poster,Neurosciences,Language_Model,https://openreview.net/forum?id=VtkGvGcGe3
-Self-Supervised Learning with Lie Symmetries for Partial Differential Equations,NeurIPS_2023,Poster,Math,Self-supervised_Learning,https://openreview.net/forum?id=ZULq9QV8rH
+Self-Supervised Learning with Lie Symmetries for Partial Differential Equations,NeurIPS_2023,Poster,Math,Embedding,https://openreview.net/forum?id=ZULq9QV8rH
 Implicit Transfer Operator Learning: Multiple Time-Resolution Models for Molecular Dynamics,NeurIPS_2023,Poster,Chemistry,Neural_Network,https://openreview.net/forum?id=1kZx7JiuA2
 Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules,NeurIPS_2023,Poster,Chemistry,Representation_Learning,https://openreview.net/forum?id=fWLf8DV0fI
 DeepSimHO: Stable Pose Estimation for Hand-Object Interaction via Physics Simulation,NeurIPS_2023,Poster,Physics,Neural_Network,https://openreview.net/forum?id=SxVHyYavHy

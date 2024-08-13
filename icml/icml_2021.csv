@@ -1,0 +1,14 @@
+Title,Conference,Type,Application,MLTech,OpenReviewLink
+An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming,ICML_2021,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=5bNqkRQ-Iow
+A Structured Observation Distribution for Generative Biological Sequence Prediction and Forecasting,ICML_2021,Poster,Biology,Generative_Model,https://proceedings.mlr.press/v139/weinstein21a.html
+Disentangling syntax and semantics in the brain with deep networks,ICML_2021,Poster,Neurosciences,Neural_Network,https://openreview.net/forum?id=rAgZhWin9xc
+Efficient Generative Modelling of Protein Structure Fragments using a Deep Markov Model,ICML_2021,Poster,Biology,Generative_Model,https://proceedings.mlr.press/v139/thygesen21a.html
+Equivariant message passing for the prediction of tensorial properties and molecular spectra,ICML_2021,Poster,Chemistry,Neural_Networks,https://openreview.net/forum?id=xvMaQnh4gRf
+Fold2Seq: A Joint Sequence(1D)-Fold(3D) Embedding-based Generative Model for Protein Design,ICML_2021,Poster,Biology,Generative_Model,https://proceedings.mlr.press/v139/cao21a.html
+"""Hey, that's not an ODE"": Faster ODE Adjoints via Seminorms",ICML_2021,Poster,Math,Neural_Network,https://openreview.net/forum?id=u33thvQiqc
+Learning Gradient Fields for Molecular Conformation Generation,ICML_2021,Poster,Chemistry,Generative_Model,https://proceedings.mlr.press/v139/shi21b.html
+LIME: Learning Inductive Bias for Primitives of Mathematical Reasoning,ICML_2021,Poster,Math,Language_Model,https://openreview.net/forum?id=nVTvhWZ0F3
+Non-Autoregressive Electron Redistribution Modeling for Reaction Prediction,ICML_2021,Poster,Chemistry,Transformer,https://openreview.net/forum?id=IEly7hFS477
+Opening the Blackbox: Accelerating Neural Differential Equations by Regularizing Internal Solver Heuristics,ICML_2021,Poster,Math,Neural_Network,https://openreview.net/forum?id=0ym4KedpoWw
+SagaNet: A Small Sample Gated Network for Pediatric Cancer Diagnosis,ICML_2021,Poster,Biology,Neural_Network,https://proceedings.mlr.press/v139/liu21u.html
+Solving high-dimensional parabolic PDEs using the tensor train format,ICML_2021,Poster,Math,Neural_Network,https://proceedings.mlr.press/v139/richter21a.html

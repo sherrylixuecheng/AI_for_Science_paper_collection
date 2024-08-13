@@ -1,0 +1,12 @@
+Title,Conference,Type,Application,MLTech,OpenReviewLink
+Adaptive Droplet Routing in Digital Microfluidic Biochips Using Deep Reinforcement Learning,ICML_2020,Poster,Biology,Reinforcement_Learning,https://openreview.net/forum?id=vFsyHVU6Ice
+A Generative Model for Molecular Distance Geometry,ICML_2020,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=uVEybXgI63
+A Markov Decision Process Model for Socio-Economic Systems Impacted by Climate Change,ICML_2020,Poster,Climate,Reinforcement_Learning,https://openreview.net/forum?id=D7XgIg4VPHVc
+Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction,ICML_2020,Poster,Physics,Graph_Neural_network,https://openreview.net/forum?id=bKMi5wLLR6G
+Deep Molecular Programming: A Natural Implementation of Binary-Weight ReLU Neural Networks,ICML_2020,Poster,Chemistry,Neural_Network,https://openreview.net/forum?id=LIltq8YGmU-
+Learning to Navigate The Synthetically Accessible Chemical Space Using Reinforcement Learning,ICML_2020,Poster,Chemistry,Reinforcement_Learning,https://openreview.net/forum?id=H-NSJ71Irg9
+Learning to Simulate Complex Physics with Graph Networks,ICML_2020,Poster,Physics,Graph_Neural_network,https://proceedings.mlr.press/v119/sanchez-gonzalez20a.html
+Lorentz Group Equivariant Neural Network for Particle Physics,ICML_2020,Poster,Physics,Neural_Network,https://openreview.net/forum?id=u1eFRTF0Lyz
+Reinforcement Learning for Molecular Design Guided by Quantum Mechanics,ICML_2020,Poster,Physics,Reinforcement_Learning,https://openreview.net/forum?id=Spc69K1Uh_
+Scalable Differentiable Physics for Learning and Control,ICML_2020,Poster,Physics,Optimization,https://openreview.net/forum?id=A28NViln18y
+TrajectoryNet: A Dynamic Optimal Transport Network for Modeling Cellular Dynamics,ICML_2020,Poster,Biology,Generative_Model,https://openreview.net/forum?id=1wUl2FU3_g5
