@@ -5,7 +5,7 @@ Aligning individual brains with fused unbalanced Gromov Wasserstein,neurips_2022
 AMOS: A Large-Scale Abdominal Multi-Organ Benchmark for Versatile Medical Image Segmentation,neurips_2022,Poster,Medical_Sciences,Graph_Neural_Network,https://openreview.net/forum?id=Vk4-HUnkEak
 Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures,neurips_2022,Poster,Biology,Optimization,https://openreview.net/forum?id=jSorGn2Tjg
 Approximate Euclidean lengths and distances beyond Johnson-Lindenstrauss,neurips_2022,Poster,Math,,https://openreview.net/forum?id=_N4k45mtnuq
-A Unified Hard-Constraint Framework for Solving Geometrically Complex PDEs,neurips_2022,Poster,Math,Neural_Network,https://openreview.net/forum?id=GNt5ntEGjD3
+A Unified Hard-Constraint Framework for Solving Geometrically Complex PDEs,neurips_2022,Poster,Physics,Neural_Network,https://openreview.net/forum?id=GNt5ntEGjD3
 CEDe: A collection of expert-curated datasets with atom-level entity annotations for Optical Chemical Structure Recognition,neurips_2022,Poster,Chemistry,,https://openreview.net/forum?id=9K-8l0WgSK3
  Class-Aware Adversarial Transformers for Medical Image Segmentation ,neurips_2022,Poster,Medical_Sciences,Transformer,https://openreview.net/forum?id=aqLugNVQqRw
 ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs,neurips_2022,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=mCzMqeWSFJ
@@ -35,13 +35,13 @@ Inverse Design for Fluid-Structure Interactions using Graph Network Simulators,n
 Learning Physical Dynamics with Subequivariant Graph Neural Networks,neurips_2022,Poster,Physics,Graph_Neural_Network,https://openreview.net/forum?id=siG_S8mUWxf
 Learning Physics Constrained Dynamics Using Autoencoders,neurips_2022,Poster,Physics,Generative_Model,https://openreview.net/forum?id=Rgz_prESe-b
 Learning Substructure Invariance for Out-of-Distribution Molecular Representations,neurips_2022,Poster,Chemistry,,https://openreview.net/forum?id=2nWUNTnFijm
-Learning to Accelerate Partial Differential Equations via Latent Global Evolution,neurips_2022,Poster,Math,Optimization,https://openreview.net/forum?id=xvZtgp5wyYT
+Learning to Accelerate Partial Differential Equations via Latent Global Evolution,neurips_2022,Poster,General,Optimization,https://openreview.net/forum?id=xvZtgp5wyYT
 Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering,neurips_2022,Poster,General,,https://openreview.net/forum?id=HjwK-Tc_Bc
 LIPS - Learning Industrial Physical Simulation benchmark suite,neurips_2022,Poster,Physics,,https://openreview.net/forum?id=ObD_o92z4p
 M2N: Mesh Movement Networks for PDE Solvers,neurips_2022,Poster,Math,Neural_Network,https://openreview.net/forum?id=UEhzUupXbL2
-MAgNet: Mesh Agnostic Neural PDE Solver,neurips_2022,Poster,Math,Neural_Network,https://openreview.net/forum?id=bx2roi8hca8
+MAgNet: Mesh Agnostic Neural PDE Solver,neurips_2022,Poster,Physics,Neural_Network,https://openreview.net/forum?id=bx2roi8hca8
 Maximum a posteriori natural scene reconstruction from retinal ganglion cells with deep denoiser priors,neurips_2022,Poster,Neurosciences,,https://openreview.net/forum?id=2NcrByUfu9
-Meta-Auto-Decoder for Solving Parametric Partial Differential Equations,neurips_2022,Poster,Math,Neural_Network,https://openreview.net/forum?id=PwlW5Jri1Xt
+Meta-Auto-Decoder for Solving Parametric Partial Differential Equations,neurips_2022,Poster,General,Neural_Network,https://openreview.net/forum?id=PwlW5Jri1Xt
 MetaTeacher: Coordinating Multi-Model Domain Adaptation for Medical Image Classification,neurips_2022,Poster,Healthcare,,https://openreview.net/forum?id=AQd4ugzALQ1
 METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets,neurips_2022,Poster,Social_Science,,https://openreview.net/forum?id=GP1Ncd8nTgn
 Mind Reader: Reconstructing complex images from brain activities,neurips_2022,Poster,Neurosciences,,https://openreview.net/forum?id=pHdiaqgh_nf

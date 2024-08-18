@@ -16,13 +16,12 @@ JAX MD: A Framework for Differentiable Physics,NeurIPS_2020,Poster,Physics,Graph
 Learning Composable Energy Surrogates for PDE Order Reduction,NeurIPS_2020,Poster,Materials,Neural_Network,https://openreview.net/forum?id=8HJ0f9qQdJ
 Learning Physical Constraints with Neural Projections,NeurIPS_2020,Poster,Physics,Neural_Network,https://openreview.net/forum?id=NRJwQ0z_OqO
 Learning to Select Best Forecast Tasks for Clinical Outcome Prediction,NeurIPS_2020,Poster,Healthcare,,https://openreview.net/forum?id=gPzvzwN3qmC
-Multipole Graph Neural Operator for Parametric Partial Differential Equations,NeurIPS_2020,Poster,Math,Neural_Operator,https://openreview.net/forum?id=6Hsy2QYCtKV
-Numerically Solving Parametric Families of High-Dimensional Kolmogorov Partial Differential Equations via Deep Learning,NeurIPS_2020,Poster,Math,,https://openreview.net/forum?id=C0LUsxrb7wb
+Multipole Graph Neural Operator for Parametric Partial Differential Equations,NeurIPS_2020,Poster,Physics,Neural_Operator,https://openreview.net/forum?id=6Hsy2QYCtKV
+Numerically Solving Parametric Families of High-Dimensional Kolmogorov Partial Differential Equations via Deep Learning,NeurIPS_2020,Poster,Physics,,https://openreview.net/forum?id=C0LUsxrb7wb
 On the equivalence of molecular graph convolution and molecular wave function with poor basis set,NeurIPS_2020,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=LPkyhTceWFR
 Optimal Adaptive Electrode Selection to Maximize Simultaneously Recorded Neuron Yield,NeurIPS_2020,Poster,Neuroscience,Optimization,https://openreview.net/forum?id=Ftp8yJ0MtKL
 Reconstructing Perceptive Images from Brain Activity by Shape-Semantic GAN,NeurIPS_2020,Poster,Neuroscience,,https://openreview.net/forum?id=PsisKXgX8P
 Reinforced Molecular Optimization with Neighborhood-Controlled Grammars,NeurIPS_2020,Poster,Chemistry,Optimization,https://openreview.net/forum?id=9aXca3BaWRf
 RetroXpert: Decompose Retrosynthesis Prediction Like A Chemist,NeurIPS_2020,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=rQjr-2tU15i
 Self-Supervised Graph Transformer on Large-Scale Molecular Data,NeurIPS_2020,Poster,Chemistry,Transformer,https://openreview.net/forum?id=norABfQrwV
-Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers,NeurIPS_2020,Poster,Math,,https://openreview.net/forum?id=9Go-qmHB2PG
-Temporal Positive-unlabeled Learning for Biomedical Hypothesis Generation via Risk Estimation,NeurIPS_2020,Poster,Biology,,https://openreview.net/forum?id=bMTi4zSom89
+Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers,NeurIPS_2020,Poster,General,,https://openreview.net/forum?id=9Go-qmHB2PG

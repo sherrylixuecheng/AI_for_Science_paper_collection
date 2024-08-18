@@ -18,7 +18,7 @@ Generative Coarse-Graining of Molecular Conformations,ICML_2022,Poster,Chemistry
 Learning inverse folding from millions of predicted structures,ICML_2022,Poster,Biology,Transformer,https://proceedings.mlr.press/v162/hsu22a.html
 Learning of Cluster-based Feature Importance for Electronic Health Record Time-series,ICML_2022,Poster,Health,Recurrent_Neural_Network,https://proceedings.mlr.press/v162/aguiar22a.html
 Learning to Estimate and Refine Fluid Motion with Physical Dynamics,ICML_2022,Poster,Physics,Neural_Network,https://proceedings.mlr.press/v162/zhang22ad.html
-Learning to Solve PDE-constrained Inverse Problems with Graph Networks,ICML_2022,Poster,Math,Graph_Neural_Network,https://openreview.net/forum?id=QRuovfQK2Z9
+Learning to Solve PDE-constrained Inverse Problems with Graph Networks,ICML_2022,Poster,Physics,Graph_Neural_Network,https://openreview.net/forum?id=QRuovfQK2Z9
 Lie Point Symmetry Data Augmentation for Neural PDE Solvers,ICML_2022,Poster,Math,Neural_Network,https://openreview.net/forum?id=oFXLT2KMS9
 LIMO: Latent Inceptionism for Targeted Molecule Generation,ICML_2022,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=0_HDaeOnQj
 Locally Sparse Neural Networks for Tabular Biomedical Data,ICML_2022,Poster,Biology,Neural_Network,https://openreview.net/forum?id=B6wr8M_TR1K
@@ -30,8 +30,7 @@ Path-Aware and Structure-Preserving Generation of Synthetically Accessible Molec
 PDE-Based Optimal Strategy for Unconstrained Online Learning,ICML_2022,Poster,Math,Online_Learning,https://proceedings.mlr.press/v162/zhang22d.html
 Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets,ICML_2022,Poster,Biology,Generative_Model,https://proceedings.mlr.press/v162/peng22b.html
 Proximal Exploration for Model-guided Protein Sequence Design,ICML_2022,Poster,Biology,Generative_Model,https://proceedings.mlr.press/v162/ren22a.html
-Robust SDE-Based Variational Formulations for Solving Linear PDEs via Deep Learning,ICML_2022,Poster,Math,Neural_Network,https://openreview.net/forum?id=O53vM1sc3O
-Solving the Right Problems: Making ML Models Relevant to Healthcare and the Life Sciences,ICML_2022,Oral,Health,General,https://icml.cc/virtual/2022/invited-talk/18429
+  Robust SDE-Based Variational Formulations for Solving Linear PDEs via Deep Learning,ICML_2022,Poster,Math,Neural_Network,https://openreview.net/forum?id=O53vM1sc3O
 SoQal: Selective Oracle Questioning for Consistency Based Active Learning of Cardiac Signals,ICML_2022,Poster,Health,Active_Learning,https://proceedings.mlr.press/v162/kiyasseh22a.html
 Tranception: Protein Fitness Prediction with Autoregressive Transformers and Inference-time Retrieval,ICML_2022,Poster,Biology,Generative_Model,https://openreview.net/forum?id=lkb6Ofm7aEq
 Variational Mixtures of ODEs for Inferring Cellular Gene Expression Dynamics,ICML_2022,Poster,Biology,Generative_Model,https://proceedings.mlr.press/v162/gu22a.html
