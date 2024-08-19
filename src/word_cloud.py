@@ -10,7 +10,7 @@ from wordcloud import WordCloud, STOPWORDS
 d = path.dirname(__file__) if "__file__" in locals() else os.getcwd()
 
 # Read the whole text.
-venues = ['icml', 'neurips']
+venues = ['icml', 'neurips','iclr']
 lists = []
 for i in venues:
   lists.extend([os.path.join(f'../{i}',j) for j in os.listdir(f'../{i}')])
