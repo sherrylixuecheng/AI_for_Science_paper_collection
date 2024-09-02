@@ -6,11 +6,11 @@ An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch,I
 Ancestral protein sequence reconstruction using a tree-structured Ornstein-Uhlenbeck variational autoencoder,ICLR_2022,Poster,Biology,Generative_Model,https://openreview.net/forum?id=FZoZ7a31GCW
 Chemical-Reaction-Aware Molecule Representation Learning,ICLR_2022,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=6sh3pIzKS-
 ClimateGAN: Raising Climate Change Awareness by Generating Images of Floods,ICLR_2022,Poster,Earth_Sciences,Representation_Learning,https://openreview.net/forum?id=EZNOb_uNpJk
-Connectome-constrained Latent Variable Model of Whole-Brain Neural Activity,ICLR_2022,Poster,Neuroscience,Generative_Model,https://openreview.net/forum?id=CJzi3dRlJE-
+Connectome-constrained Latent Variable Model of Whole-Brain Neural Activity,ICLR_2022,Poster,Neurosciences,Generative_Model,https://openreview.net/forum?id=CJzi3dRlJE-
 Constrained Physical-Statistics Models for Dynamical System Identification and Prediction,ICLR_2022,Poster,Physics,,https://openreview.net/forum?id=gbe1zHyA73
 Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics,ICLR_2022,Poster,Physics,,https://openreview.net/forum?id=mmUA7_O9mjY
 Crystal Diffusion Variational Autoencoder for Periodic Material Generation,ICLR_2022,Poster,Materials,Graph_Neural_Network,https://openreview.net/forum?id=03RLpj-tc_
-Curriculum learning as a tool to uncover learning principles in the brain ,ICLR_2022,Poster,Neuroscience,,https://openreview.net/forum?id=TpJMvo0_pu-
+Curriculum learning as a tool to uncover learning principles in the brain ,ICLR_2022,Poster,Neurosciences,,https://openreview.net/forum?id=TpJMvo0_pu-
 Data-Efficient Graph Grammar Learning for Molecular Generation,ICLR_2022,Poster,Chemistry,,https://openreview.net/forum?id=l4IHywGq6a
 Differentiable Scaffolding Tree for Molecule Optimization,ICLR_2022,Poster,Chemistry,Optimization,https://openreview.net/forum?id=w_drCosT76
 DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools,ICLR_2022,Poster,Physics,,https://openreview.net/forum?id=Kef8cKdHWpP
@@ -33,7 +33,7 @@ Message Passing Neural PDE Solvers,ICLR_2022,Poster,Math,,https://openreview.net
 OntoProtein: Protein Pretraining With Gene Ontology Embedding,ICLR_2022,Poster,Biology,,https://openreview.net/forum?id=yfe1VMYAXa4
 Predicting Physics in Mesh-reduced Space with Temporal Attention,ICLR_2022,Poster,Physics,Graph_Neural_Network,https://openreview.net/forum?id=XctLdNfCmP
 Pre-training Molecular Graph Representation with 3D Geometry,ICLR_2022,Poster,Chemistry,,https://openreview.net/forum?id=xQUe1pOKPam
-Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis,ICLR_2022,Poster,Neuroscience,Graph_Neural_Network,https://openreview.net/forum?id=k9bx1EfHI_-
+Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis,ICLR_2022,Poster,Neurosciences,Graph_Neural_Network,https://openreview.net/forum?id=k9bx1EfHI_-
 Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond,ICLR_2022,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=1wVvweK3oIb
 Solving Inverse Problems in Medical Imaging with Score-Based Generative Models,ICLR_2022,Poster,Medical_Sciences,,https://openreview.net/forum?id=vaRCHVj0uGI
 Spherical Message Passing for 3D Molecular Graphs,ICLR_2022,Poster,Chemistry,,https://openreview.net/forum?id=givsRXsOt9r

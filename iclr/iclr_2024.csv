@@ -1,12 +1,12 @@
 Title,Conference,Type,Application,MLTech,OpenreviewLink
-A differentiable brain simulator bridging brain simulation and brain-inspired computing,ICLR_2024,Poster,Neuroscience,,https://openreview.net/forum?id=AU2gS9ut61
+A differentiable brain simulator bridging brain simulation and brain-inspired computing,ICLR_2024,Poster,Neurosciences,,https://openreview.net/forum?id=AU2gS9ut61
 Adversarial Adaptive Sampling: Unify PINN and Optimal Transport for the Approximation of PDEs,ICLR_2024,Poster,Math,Neural_Network,https://openreview.net/forum?id=7QI7tVrh2c
 Beam Enumeration: Probabilistic Explainability For Sample Efficient Self-conditioned Molecular Design,ICLR_2024,Poster,Chemistry,Reinforcement_Learning,https://openreview.net/forum?id=7UhxsmbdaQ
 BEND: Benchmarking DNA Language Models on Biologically Meaningful Tasks,ICLR_2024,Poster,Biology,,https://openreview.net/forum?id=uKB4cFNQFg
 BENO: Boundary-embedded Neural Operators for Elliptic PDEs,ICLR_2024,Poster,Physics,Neural_Operator,https://openreview.net/forum?id=ZZTkLDRmkg
 Better Neural PDE Solvers Through Data-Free Mesh Movers,ICLR_2024,Poster,Math,,https://openreview.net/forum?id=hj9ZuNimRl
 BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs,ICLR_2024,Poster,Medical_Sciences,,https://openreview.net/forum?id=jJCeMiwHdH
-BrainLM: A foundation model for brain activity recordings,ICLR_2024,Poster,Neuroscience,Language_Model,https://openreview.net/forum?id=RwI7ZEfR27
+BrainLM: A foundation model for brain activity recordings,ICLR_2024,Poster,Neurosciences,Language_Model,https://openreview.net/forum?id=RwI7ZEfR27
 CellPLM: Pre-training of Cell Language Model Beyond Single Cells,ICLR_2024,Poster,Biology,Language_Model,https://openreview.net/forum?id=BKXvPDekud
 ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs,ICLR_2024,Poster,Earth_Sciences,,https://openreview.net/forum?id=xuY33XhEGR
 Complete and Efficient Graph Transformers for Crystal Material Property Prediction,ICLR_2024,Poster,Material,,https://openreview.net/forum?id=BnQY9XiRAS
@@ -31,7 +31,7 @@ Interpretable Meta-Learning of Physical Systems,ICLR_2024,Poster,Physics,,https:
 I-PHYRE: Interactive Physical Reasoning,ICLR_2024,Poster,Physics,,https://openreview.net/forum?id=1bbPQShCT2
 KW-Design: Pushing the Limit of Protein Design via Knowledge Refinement,ICLR_2024,Poster,Biology,,https://openreview.net/forum?id=mpqMVWgqjn
 Latent Intuitive Physics: Learning to Transfer Hidden Physics from A 3D Video,ICLR_2024,Poster,Physics,,https://openreview.net/forum?id=WZu4gUGN13
-Learning dynamic representations of the functional connectome in neurobiological networks,ICLR_2024,Poster,Neuroscience,,https://openreview.net/forum?id=ZwhHSOHMTM
+Learning dynamic representations of the functional connectome in neurobiological networks,ICLR_2024,Poster,Neurosciences,,https://openreview.net/forum?id=ZwhHSOHMTM
 Learning Over Molecular Conformer Ensembles: Datasets and Benchmarks,ICLR_2024,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=NSDszJ2uIV
 Learning to design protein-protein interactions with enhanced generalization,ICLR_2024,Poster,Biology,,https://openreview.net/forum?id=xcMmebCT7s
 Llemma: An Open Language Model for Mathematics,ICLR_2024,Poster,Math,Language_Model,https://openreview.net/forum?id=4WnqRR915j
@@ -44,7 +44,7 @@ MOTOR: A Time-to-Event Foundation Model For Structured Medical Records,ICLR_2024
 Multimodal Molecular Pretraining via Modality Blending,ICLR_2024,Poster,Chemistry,Representation_Learning,https://openreview.net/forum?id=oM7Jbxdk6Z
 Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation,ICLR_2024,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=kzGuiRXZrQ
 Neural Atoms: Propagating Long-range Interaction in Molecular Graphs through Efficient Communication Channel,ICLR_2024,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=CUfSCwcgqm
-Neuroformer: Multimodal and Multitask Generative Pretraining for Brain Data,ICLR_2024,Poster,Neuroscience,,https://openreview.net/forum?id=W8S8SxS9Ng
+Neuroformer: Multimodal and Multitask Generative Pretraining for Brain Data,ICLR_2024,Poster,Neurosciences,,https://openreview.net/forum?id=W8S8SxS9Ng
 PhyloGFN: Phylogenetic inference with generative flow networks,ICLR_2024,Poster,Biology,,https://openreview.net/forum?id=hB7SlfEmze
 "Pre-training Sequence, Structure, and Surface Features for Comprehensive Protein Representation Learning",ICLR_2024,Poster,Biology,Reinforcement_Learning,https://openreview.net/forum?id=BEH4mGo7zP
 Protein Discovery with Discrete Walk-Jump Sampling,ICLR_2024,Poster,Biology,,https://openreview.net/forum?id=zMPHKOmQNb
@@ -65,6 +65,6 @@ The Effect of Intrinsic Dataset Properties on Generalization: Unraveling Learnin
 Towards 3D Molecule-Text Interpretation in Language Models,ICLR_2024,Poster,Chemistry,Language_Model,https://openreview.net/forum?id=xI4yNlkaqh
 Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,ICLR_2024,Poster,Chemistry,,https://openreview.net/forum?id=Zc2aIcucwc
 Training-free Multi-objective Diffusion Model for 3D Molecule Generation,ICLR_2024,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=X41c4uB4k0
-Training Socially Aligned Language Models on Simulated Social Interactions,ICLR_2024,Poster,Social_Science,Language_Model,https://openreview.net/forum?id=NddKiWtdUm
+Training Socially Aligned Language Models on Simulated Social Interactions,ICLR_2024,Poster,Social_Sciences,Language_Model,https://openreview.net/forum?id=NddKiWtdUm
 Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks,ICLR_2024,Poster,Chemistry,,https://openreview.net/forum?id=NSVtmmzeRB
 Unleashing the Potential of Fractional Calculus in Graph Neural Networks with FROND,ICLR_2024,Poster,Math,,https://openreview.net/forum?id=wcka3bd7P4
