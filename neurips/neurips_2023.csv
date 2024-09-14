@@ -67,7 +67,7 @@ REFINE: A Fine-Grained Medication Recommendation System Using Deep Learning and 
 Graph Denoising Diffusion for Inverse Protein Folding,NeurIPS_2023,Poster,Biology,Generative_Model,https://openreview.net/forum?id=u4YXKKG5dX
 DSR: Dynamical Surface Representation as Implicit Neural Networks for Protein,NeurIPS_2023,Poster,Biology,Representation_Learning,https://openreview.net/forum?id=IOSaJ7ukgf
 Contrast Everything: A Hierarchical Contrastive Framework for Medical Time-Series,NeurIPS_2023,Poster,Healthcare,Representation_Learning,https://openreview.net/forum?id=sOQBHlCmzp
-Using Imperfect Surrogates for Downstream Inference: Design-based Supervised Learning for Social Science Applications of Large Language Models,NeurIPS_2023,Poster,Social_Science,Language_Model,https://openreview.net/forum?id=e8RZwixcE4
+Using Imperfect Surrogates for Downstream Inference: Design-based Supervised Learning for Social Science Applications of Large Language Models,NeurIPS_2023,Poster,Social_Sciences,Language_Model,https://openreview.net/forum?id=e8RZwixcE4
 Deep Equilibrium Based Neural Operators for Steady-State PDEs,NeurIPS_2023,Poster,Math,Neural_Operator,https://openreview.net/forum?id=v6YzxwJlQn
 Transfer learning for atomistic simulations using GNNs and kernel mean embeddings,NeurIPS_2023,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=Enzew8XujO
 Evaluating Cognitive Maps and Planning in Large Language Models with CogEval,NeurIPS_2023,Poster,Neurosciences,Language_Model,https://openreview.net/forum?id=VtkGvGcGe3
@@ -95,5 +95,5 @@ A Dual-Stream Neural Network Explains the Functional Segregation of Dorsal and V
 Brain Dissection: fMRI-trained Networks Reveal Spatial Selectivity in the Processing of Natural Images,NeurIPS_2023,Poster,Neurosciences,Neural_Network,https://openreview.net/forum?id=q3fA5tTod3
 MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data,NeurIPS_2023,Poster,Biology,Representation_Learning,https://openreview.net/forum?id=4UCktT9XZx
 A Hierarchical Training Paradigm for Antibody Structure-sequence Co-design,NeurIPS_2023,Poster,Biology,Language_Model,https://openreview.net/forum?id=hV52oj0Sik
-Social Motion Prediction with Cognitive Hierarchies,NeurIPS_2023,Poster,Social_Science,Reinforcement_Learning,https://openreview.net/forum?id=lRu0dN7BY6
+Social Motion Prediction with Cognitive Hierarchies,NeurIPS_2023,Poster,Social_Sciences,Reinforcement_Learning,https://openreview.net/forum?id=lRu0dN7BY6
 Learning Time-Invariant Representations for Individual Neurons from Population Dynamics,NeurIPS_2023,Poster,Neurosciences,Representation_Learning,https://openreview.net/forum?id=EcN3l6Xmnx

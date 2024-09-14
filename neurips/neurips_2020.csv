@@ -4,10 +4,10 @@ Attention-Gated Brain Propagation: How the brain can implement reward-based erro
 Barking up the right tree: an approach to search over molecule synthesis DAGs,NeurIPS_2020,Poster,Chemistry,Generative_Model,https://openreview.net/forum?id=afuTIYBbK6
 Causal Discovery in Physical Systems from Videos,NeurIPS_2020,Poster,Physics,,https://openreview.net/forum?id=9WFMZz98v_1
 CogMol: Target-Specific and Selective Drug Design for COVID-19 Using Deep Generative Models,NeurIPS_2020,Poster,Medical_Sciences,Generative_Model,https://openreview.net/forum?id=eFq4n1tVNPy
-Compact task representations as a normative model for higher-order brain activity,NeurIPS_2020,Poster,Neuroscience,,https://openreview.net/forum?id=rXZjY55DMFE
+Compact task representations as a normative model for higher-order brain activity,NeurIPS_2020,Poster,Neurosciences,,https://openreview.net/forum?id=rXZjY55DMFE
 Contrastive learning of global and local features for medical image segmentation with limited annotations,NeurIPS_2020,Poster,Medical_Sciences,,https://openreview.net/forum?id=qmxGyb4uat3
 Deep Energy-based Modeling of Discrete-Time Physics,NeurIPS_2020,Poster,Physics,,https://openreview.net/forum?id=bVIjL38o6Y
-Demixed shared component analysis of neural population data from multiple brain areas,NeurIPS_2020,Poster,Neuroscience,,https://openreview.net/forum?id=lw5mAyScjP
+Demixed shared component analysis of neural population data from multiple brain areas,NeurIPS_2020,Poster,Neurosciences,,https://openreview.net/forum?id=lw5mAyScjP
 Disentangling Human Error from Ground Truth in Segmentation of Medical Images,NeurIPS_2020,Poster,Medical_Sciences,Graph_Neural_Network,https://openreview.net/forum?id=Ieoo89Zz-cr
 Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization,NeurIPS_2020,Poster,Medical_Sciences,Neural_Network,https://openreview.net/forum?id=VIFwbyO1pBo
 Ensembling geophysical models with Bayesian Neural Networks,NeurIPS_2020,Poster,Earth_Sciences,Neural_Network,https://openreview.net/forum?id=-ITA5ACbLmI
@@ -19,8 +19,8 @@ Learning to Select Best Forecast Tasks for Clinical Outcome Prediction,NeurIPS_2
 Multipole Graph Neural Operator for Parametric Partial Differential Equations,NeurIPS_2020,Poster,Physics,Neural_Operator,https://openreview.net/forum?id=6Hsy2QYCtKV
 Numerically Solving Parametric Families of High-Dimensional Kolmogorov Partial Differential Equations via Deep Learning,NeurIPS_2020,Poster,Physics,,https://openreview.net/forum?id=C0LUsxrb7wb
 On the equivalence of molecular graph convolution and molecular wave function with poor basis set,NeurIPS_2020,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=LPkyhTceWFR
-Optimal Adaptive Electrode Selection to Maximize Simultaneously Recorded Neuron Yield,NeurIPS_2020,Poster,Neuroscience,Optimization,https://openreview.net/forum?id=Ftp8yJ0MtKL
-Reconstructing Perceptive Images from Brain Activity by Shape-Semantic GAN,NeurIPS_2020,Poster,Neuroscience,,https://openreview.net/forum?id=PsisKXgX8P
+Optimal Adaptive Electrode Selection to Maximize Simultaneously Recorded Neuron Yield,NeurIPS_2020,Poster,Neurosciences,Optimization,https://openreview.net/forum?id=Ftp8yJ0MtKL
+Reconstructing Perceptive Images from Brain Activity by Shape-Semantic GAN,NeurIPS_2020,Poster,Neurosciences,,https://openreview.net/forum?id=PsisKXgX8P
 Reinforced Molecular Optimization with Neighborhood-Controlled Grammars,NeurIPS_2020,Poster,Chemistry,Optimization,https://openreview.net/forum?id=9aXca3BaWRf
 RetroXpert: Decompose Retrosynthesis Prediction Like A Chemist,NeurIPS_2020,Poster,Chemistry,Graph_Neural_Network,https://openreview.net/forum?id=rQjr-2tU15i
 Self-Supervised Graph Transformer on Large-Scale Molecular Data,NeurIPS_2020,Poster,Chemistry,Transformer,https://openreview.net/forum?id=norABfQrwV
